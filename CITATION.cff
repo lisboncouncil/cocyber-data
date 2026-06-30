@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "COcyber Data — Open datasets from the COcyber project"
+message: "If you use these datasets, please cite them as below."
+type: dataset
+authors:
+  - name: "COcyber project"
+    website: "https://cocyber.eu"
+abstract: >-
+  Open data from the COcyber project: the COcyber Map (cybersecurity indicators
+  by country), the Cybersecurity Projects Landscape (EU-funded projects and
+  participations), and a curated cybersecurity research knowledge base. Published
+  in open CSV and JSON formats for researchers, policymakers and practitioners.
+keywords:
+  - cybersecurity
+  - open data
+  - European Union
+  - Digital Europe
+  - Horizon Europe
+  - research bibliography
+license: CC-BY-4.0
+repository-code: "https://github.com/lisboncouncil/cocyber-data"
+url: "https://cocyber.eu"
+date-released: "2026-06-30"
