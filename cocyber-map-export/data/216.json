@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 635533.58 "
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 563810.01 "
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 255846.22 "
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 234638.92 "
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 460810.53 "
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 464734.53 "
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 964779.24 "
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 785277.44 "
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 682614.70 "
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 845944.46 "
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 986813.80 "
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 820408.12 "
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 1013374.12 "
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 629939.59 "
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 338005.17 "
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 621325.82 "
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 537927.46 "
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 953922.14 "
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 479390.05 "
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 395804.52 "
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 451571.92 "
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 164062.32 "
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 397820.47 "
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 1050313.11 "
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 927298.66 "
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 585616.20 "
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 506912.35 "
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 364150.41 "
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 384595.16 "
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 654023.39 "
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 434200.03 "
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 293957.88 "
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 624596.54 "
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Average project size by country, (€)",
+        "Data": " 515565.04 "
+    }
+]

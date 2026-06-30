@@ -1,0 +1,176 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "83%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "100%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "71%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "44%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "69%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "100%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "67%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "86%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "50%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "89%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "100%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "33%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "85%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "75%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "100%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "100%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": ""
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "67%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "50%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "100%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "90%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "26%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "100%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "50%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "57%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Supply type distribution:Services distribution, %",
+        "Data": "83%"
+    }
+]

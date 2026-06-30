@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "28%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "30%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "17%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "18%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "31%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "16%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "18%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "28%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "7%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "24%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "51%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "40%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "51%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "36%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "5%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "7%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "37%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "27%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "33%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "3%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning lack of awareness about cybersecurity roles, %",
+        "Data": "35%"
+    }
+]

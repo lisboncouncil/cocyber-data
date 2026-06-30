@@ -1,0 +1,176 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "11%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "8%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": ""
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "2%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Supply type distribution:Works distribution, %",
+        "Data": "4%"
+    }
+]

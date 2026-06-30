@@ -1,0 +1,200 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "26.92%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "23.33%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "25.00%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "33.33%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "43.48%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "61.54%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "26.37%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "52.94%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "42.86%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "52.44%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "30.58%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "38.46%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "38.14%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "42.86%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "26.67%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "42.86%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "33.90%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "46.15%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "42.86%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "28.57%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "100.00%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "25.00%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "32.14%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "33.33%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "32.14%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "39.29%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "50.00%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "50.00%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "33.33%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "17.65%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "59.09%"
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "20.00%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Status of the project per country: Ongoing projects per country,%",
+        "Data": "14.71%"
+    }
+]

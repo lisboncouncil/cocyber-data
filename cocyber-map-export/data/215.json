@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 13719802.64 "
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 15872755.36 "
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 2553816.09 "
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 4285964.56 "
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 86302236.42 "
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 7536585.70 "
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 5377224.27 "
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 11380052.05 "
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 38986216.68 "
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 27091380.86 "
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 9654835.41 "
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 19024011.64 "
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 5994341.77 "
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 7087923.69 "
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 2264237.78 "
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 21449826.40 "
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 9040885.13 "
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 7064463.77 "
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 9561126.77 "
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 61417007.39 "
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 9141162.68 "
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 572377.88 "
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 19447473.65 "
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 16801102.02 "
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 18800958.28 "
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 2369624.17 "
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 8176528.93 "
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 2809509.01 "
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 1943554.11 "
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 9521890.56 "
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 15189115.05 "
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 2920000.15 "
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 11074421.63 "
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of Cybersecurity projects budget per million people, (€) ",
+        "Data": " 2100900.55 "
+    }
+]

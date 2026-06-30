@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 405377.00 "
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 401325.77 "
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 99804.59 "
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 158097.97 "
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 184631.12 "
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 277004.18 "
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 463038.87 "
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 789312.01 "
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 207847.50 "
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 305202.54 "
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 354484.34 "
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 251957.47 "
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 491195.78 "
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 585627.22 "
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 408962.40 "
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 466080.78 "
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 413915.42 "
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 433197.72 "
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 146635.47 "
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 393746.36 "
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 888944.83 "
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 383125.00 "
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 369121.59 "
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 883733.17 "
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 328326.28 "
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 300766.30 "
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 230214.85 "
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 224153.13 "
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 307515.72 "
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 137003.61 "
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 119907.93 "
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 256428.70 "
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Average project size per participant types: Average project size for private companies, (€)",
+        "Data": " 274554.03 "
+    }
+]

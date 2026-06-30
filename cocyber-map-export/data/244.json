@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "10%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "7%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "8%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "6%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "13%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "3%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "18%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "20%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "3%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "3%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "6%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "27%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "9%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "5%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "7%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "35%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "5%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "25%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "10%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "10%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "13%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "19%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "12%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "6%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "7%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "4%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Cybersecurity talent demand: Share of companies reporting at least one Cybersecurity position (FTE) needing to be filled ,%",
+        "Data": "4%"
+    }
+]

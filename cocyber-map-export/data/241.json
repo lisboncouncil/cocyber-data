@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "20%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "6%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "14%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "32%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "21%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "4%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "19%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "16%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "21%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "7%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "9%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "9%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "10%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "23%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "26%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "2%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "10%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "12%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "1%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "17%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "4%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "28%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "16%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies mentioning the competing environment for cybersecurity talent, %",
+        "Data": "39%"
+    }
+]

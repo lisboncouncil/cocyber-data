@@ -1,0 +1,200 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "57.69%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "63.33%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "50.00%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "66.67%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "30.43%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "30.77%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "62.64%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "47.06%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "35.71%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "43.90%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "63.64%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "46.15%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "52.58%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "14.29%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "53.33%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "46.43%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "57.63%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "30.77%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "42.86%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "71.43%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "75.00%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "66.07%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "58.33%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "50.00%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "53.57%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "36.36%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "50.00%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "63.33%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "58.82%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "22.73%"
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "60.00%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Status of the project per country: Closed projects per country,%",
+        "Data": "85.29%"
+    }
+]

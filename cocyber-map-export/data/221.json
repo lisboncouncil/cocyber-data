@@ -1,0 +1,176 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "312975.29"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "126703.26"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "76163.08"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "55468.87"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "1585587.27"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "133606.08"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "113384.74"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "285755.15"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "48266.89"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "751813.77"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "139147.46"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "18503.95"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "221508.48"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "61694.74"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "722610.77"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "178891.83"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "80477.23"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "2989065.19"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": ""
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "101718.47"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "411428.81"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "227910.60"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "1971538.30"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "1818305.66"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "58759.52"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "20582.57"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "256891.24"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "174689.54"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of tender budget per million people (€)",
+        "Data": "808568.26"
+    }
+]

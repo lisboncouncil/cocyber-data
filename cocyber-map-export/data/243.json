@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "7%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "0%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "1%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "14%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "3%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "16%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "4%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "7%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "13%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "5%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "13%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "7%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "3%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "9%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "30%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "8%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "20%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "16%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "17%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "14%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "2%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "29%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "1%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies struggling to manage cybersecurity staff turnover, %",
+        "Data": "5%"
+    }
+]

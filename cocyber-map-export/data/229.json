@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "39%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "22%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "30%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "21%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "33%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "13%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "23%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "35%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "36%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "25%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "20%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "50%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "24%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "12%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "48%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "35%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "27%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "30%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "29%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "30%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "40%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "22%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "39%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "9%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "41%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruited employees from non-cybersecurity roles, %",
+        "Data": "34%"
+    }
+]

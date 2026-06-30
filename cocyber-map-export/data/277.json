@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 115711.92 "
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 309655.65 "
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 90847.74 "
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 199339.58 "
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 159057.10 "
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 132088.12 "
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 485086.51 "
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 120944.60 "
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 118215.86 "
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 124498.11 "
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 182670.55 "
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 95777.37 "
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 114892.49 "
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 189086.57 "
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 152999.66 "
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 353750.00 "
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 161762.26 "
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 240265.89 "
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 382750.00 "
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 246819.04 "
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 268750.00 "
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 283732.65 "
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 419427.63 "
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 141211.01 "
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 231734.06 "
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 189060.25 "
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 934262.90 "
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 245984.17 "
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 214360.28 "
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 171391.02 "
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 138635.33 "
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Average project size per participant types: Average project size for NGOs, (€)",
+        "Data": " 107895.18 "
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 303287.49 "
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 386064.32 "
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 198525.26 "
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 197031.88 "
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 298332.32 "
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 159572.81 "
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 364145.07 "
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 695613.62 "
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 897287.52 "
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 318362.30 "
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 300723.00 "
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 367875.95 "
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 347169.71 "
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 70658.13 "
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 301371.56 "
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 324273.87 "
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 1124124.97 "
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 237093.06 "
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 261169.62 "
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 241870.11 "
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 126124.85 "
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": ""
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 661642.85 "
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 1228657.85 "
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 442163.09 "
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 526987.79 "
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 285215.79 "
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 263282.22 "
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 224767.19 "
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 303188.59 "
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 294053.35 "
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 347521.22 "
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 195563.21 "
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Average project size per participant types: Average project size for SMEs,(€)",
+        "Data": " 281517.18 "
+    }
+]

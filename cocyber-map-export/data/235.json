@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "57%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "43%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "47%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "54%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "51%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "40%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "62%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "46%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "20%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "47%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "43%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "12%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "53%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "37%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "22%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "24%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "38%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "56%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "38%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "40%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "59%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "40%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "51%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "35%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Cybersecurity recruitment challenges: Share of companies reporting difficulties finding qualified Cybersecurity candidates, %",
+        "Data": "54%"
+    }
+]

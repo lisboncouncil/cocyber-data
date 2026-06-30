@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "13%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "8%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "4%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "7%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "21%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "21%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "25%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "16%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "7%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "19%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "27%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "4%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "3%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "15%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "5%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "36%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "17%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "27%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "13%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "19%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "25%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "16%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "11%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "10%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Pathways to cybersecurity employment: Share of companies recruiting employees as career starters (e.g., Graduates), %",
+        "Data": "15%"
+    }
+]

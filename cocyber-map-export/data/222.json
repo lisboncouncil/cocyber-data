@@ -1,0 +1,176 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Average tender size",
+        "Data": "461511.80"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Average tender size",
+        "Data": "80760.36"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Average tender size",
+        "Data": "511221.00"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Average tender size",
+        "Data": "59215.50"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Average tender size",
+        "Data": "919069.40"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Average tender size",
+        "Data": "394674.35"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Average tender size",
+        "Data": "164305.75"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Average tender size",
+        "Data": "54321.80"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Average tender size",
+        "Data": "284282.78"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Average tender size",
+        "Data": "2075000.00"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Average tender size",
+        "Data": "445828.03"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Average tender size",
+        "Data": "49401.63"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Average tender size",
+        "Data": "885896.00"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Average tender size",
+        "Data": "199545.33"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Average tender size",
+        "Data": "275329.54"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Average tender size",
+        "Data": "136883.75"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Average tender size",
+        "Data": "230000.00"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Average tender size",
+        "Data": "1830000.00"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Average tender size",
+        "Data": ""
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Average tender size",
+        "Data": "68030.33"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Average tender size",
+        "Data": "67330.00"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Average tender size",
+        "Data": "563802.86"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Average tender size",
+        "Data": "954719.82"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Average tender size",
+        "Data": "145018.42"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Average tender size",
+        "Data": "306000.00"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Average tender size",
+        "Data": "200083.50"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Average tender size",
+        "Data": "889599.50"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Average tender size",
+        "Data": "253688.43"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Average tender size",
+        "Data": "202196.53"
+    }
+]

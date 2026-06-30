@@ -1,0 +1,176 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "1.40%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.70%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.30%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.20%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "4.60%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "5.50%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.30%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.20%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "1.10%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "2.10%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "4.70%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.10%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.40%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.30%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "1.80%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "5.30%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.10%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.90%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.10%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.10%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "2.00%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "5.20%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "34.00%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.30%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.20%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.90%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "0.90%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of tender budgets across participating countries,%",
+        "Data": "26.40%"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "16%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "11%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "9%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "5%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "14%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "9%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "12%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "22%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "10%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "6%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "4%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "40%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "31%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "7%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "17%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "14%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "6%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "12%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "12%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "16%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "10%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "39%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "7%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "13%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "12%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "10%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking security training expert as most important role,%",
+        "Data": "7%"
+    }
+]

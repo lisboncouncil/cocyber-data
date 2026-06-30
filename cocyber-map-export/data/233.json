@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "59%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "89%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "72%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "32%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "60%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "27%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "61%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "81%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "56%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "59%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "70%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "72%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "64%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "49%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "46%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "70%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "57%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "70%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "62%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "53%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "47%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "65%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "49%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "57%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "75%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "46%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Cybersecurity skills gap in hiring:\nShare of enterprises having some difficulties in hiring staff with appropriate cybersecurity skills, %",
+        "Data": "33%"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "24%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "30%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "34%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "10%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "13%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "8%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "24%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "52%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "20%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "17%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "24%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "58%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "54%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "25%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "25%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "21%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "28%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "23%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "46%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "44%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "21%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "47%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "28%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "16%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "24%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "32%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Top in-demand Cybersecurity positions: Share of companies ranking chief security/information officer as most important role,%",
+        "Data": "33%"
+    }
+]

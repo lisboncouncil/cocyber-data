@@ -1,0 +1,164 @@
+[
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "48%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "32%"
+    },
+    {
+        "Country": "Czechia",
+        "Abbr": "CZ",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "65%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "43%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "67%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "48%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "64%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "69%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "56%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "39%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "63%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "63%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "59%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "41%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "34%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "74%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "57%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "72%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "60%"
+    },
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "62%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "59%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "64%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "42%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "63%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "63%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "62%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Cybersecurity workforce within companies: Share of companies employing at least one Cybersecurity professionals, %",
+        "Data": "64%"
+    }
+]

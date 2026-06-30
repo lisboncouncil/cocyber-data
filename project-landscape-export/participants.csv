@@ -1,0 +1,959 @@
+project_id,project_acronym,project_title,participant_name,participant_short_name,pic,country,country_code,org_type,is_coordinator,eu_contribution
+101127394,5GCTF,"CTF for 5G trainings and cyber-ranges","P1 SECURITY",,883714912,France,FR,sme,yes,855566
+101127394,5GCTF,"CTF for 5G trainings and cyber-ranges","PENTHERTZ SAS",,883422457,France,FR,sme,no,357513
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","MINISTERE DE L'INTERIEUR",,999823136,France,FR,public_body,yes,
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","POLICE FEDERALE BELGE",,912824806,Belgium,BE,public_body,no,55156.2
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","SISAMINISTERIO (SM)",,998241357,Finland,FI,public_body,no,125125
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","Netherlands Police",,942970272,Netherlands,NL,public_body,no,133187.5
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","MINISTERIO DEL INTERIOR",,999827501,Spain,ES,public_body,no,46875
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","UNIVERSITEIT GENT",,999986096,Belgium,BE,university,no,358020
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for",UPPERION,,893577484,France,FR,company,no,258431.3
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","IDRYMA TECHNOLOGIAS KAI EREVNAS",,999995893,Greece,GR,research_institution,no,100000
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for",CIVIPOL,,914385924,France,FR,company,no,423125
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","POLISMYNDIGHETEN SWEDISH POLICE AUTHORITY",,921186788,Sweden,SE,public_body,no,
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","Ministerio da Justica",,983734231,Portugal,PT,public_body,no,
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","IEKSLIETU MINISTRIJAS VALSTS POLICIJA STATE POLICE OF THE MINISTRY OF INTERIOR",,924493227,Latvia,LV,public_body,no,
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","BUNDESMINISTERIUM FUR INNERES",,999826434,Austria,AT,public_body,no,
+101121338,AHEAD,"TowArd sustainable foresigHt capabilitiEs for","MINISTARSTVO UNUTARNJIH POSLOVA",,931973673,Croatia,HR,public_body,no,
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","FUNDACION TECNALIA RESEARCH & INNOVATION",,999604110,Spain,ES,research_institution,yes,840328
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","PANEPISTIMIO DYTIKIS MAKEDONIAS",,986185518,Greece,GR,university,no,249500
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","MONTIMAGE EURL",,999716242,France,FR,sme,no,504375
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","THALES SIX GTS FRANCE SAS",,999971934,France,FR,company,no,356885
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLTFELELOSSEGU TARSASAG",,999704893,Hungary,HU,company,no,301250
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","FRONTENDART SZOFTVER KFT",,999615362,Hungary,HU,company,no,215000
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","EUROPEAN ORGANISATION FOR SECURITY",,998215943,Belgium,BE,company,no,193375
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","PDM E FC-PROJECTO DESENVOLVIMENTO MANUTENCAO FORMACAO E CONSULTADORIA S.A.",,999742335,Portugal,PT,sme,no,237075
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","ITTI SP ZOO",,999969509,Poland,PL,sme,no,168000
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","DIMOSIA EPICHEIRISI ILEKTRISMOU ANONYMI ETAIREIA",,999938954,Greece,GR,company,no,235750
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","UNIDADE LOCAL DE SAUDE DO ALENTEJO CENTRAL EPE",,907543544,Portugal,PT,public_body,no,130875
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","CAIXABANK SA",,941682694,Spain,ES,company,no,270375
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","METAMIND INNOVATIONS IKE",,889264185,Greece,GR,company,no,261625
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","METAMIND INNOVATIONS IKE",,889264185,Greece,GR,company,no,
+101070450,AI4CYBER,"Trustworthy AI for Cybersecurity","CAIXABANK TECH SL",,875430045,Spain,ES,company,no,34000
+101131292,AIAS,"AI-Assisted Cybersecurity","UNIVERSITY OF PIRAEUS RESEARCH CENTER",,999586941,Greece,GR,university,yes,230000
+101131292,AIAS,"AI-Assisted Cybersecurity","BEIA CONSULT INTERNATIONAL SRL",,999685687,Romania,RO,company,no,138000
+101131292,AIAS,"AI-Assisted Cybersecurity","UNIVERSIDAD DE MALAGA",,999898311,Spain,ES,university,no,193200
+101131292,AIAS,"AI-Assisted Cybersecurity",K3Y,,905140563,Bulgaria,BG,sme,no,110400
+101131292,AIAS,"AI-Assisted Cybersecurity","ATHINA-EREVNITIKO KENTRO KAINOTOMIAS STIS TECHNOLOGIES TIS PLIROFORIAS, TON EPIKOINONION KAI TIS GNOSIS",,999562788,Greece,GR,research_institution,no,161000
+101131292,AIAS,"AI-Assisted Cybersecurity","SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED",,910462080,Cyprus,CY,company,no,138000
+101131292,AIAS,"AI-Assisted Cybersecurity","CONSORZIO NAZIONALE INTERUNIVERSITARIO PER LE TELECOMUNICAZIONI",,999649603,Italy,IT,university,no,207000
+101131292,AIAS,"AI-Assisted Cybersecurity","FOGUS INNOVATIONS & SERVICES P.C.",,917691296,Greece,GR,company,no,138000
+101131292,AIAS,"AI-Assisted Cybersecurity","UNIVERSITAT POLITECNICA DE VALENCIA",,999864846,Spain,ES,university,no,138000
+101131292,AIAS,"AI-Assisted Cybersecurity","PDM E FC-PROJECTO DESENVOLVIMENTO MANUTENCAO FORMACAO E CONSULTADORIA S.A.",,999742335,Portugal,PT,sme,no,110400
+101127968,ATHENA,"Establishing Cross-border SOCs","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,yes,1602366.56
+101127968,ATHENA,"Establishing Cross-border SOCs","YPOURGEIO PSIFIAKIS DIAKYVERNISIS",,912193239,Greece,GR,public_body,no,
+101127968,ATHENA,"Establishing Cross-border SOCs","MINISTERSTVO NA ELEKTRONNOTO UPRAVLENIE",,887012427,Bulgaria,BG,public_body,no,253804
+101127968,ATHENA,"Establishing Cross-border SOCs","MINISTRY FOR HOME AFFAIRS, SECURITY AND EMPLOYMENT",,915832291,Malta,MT,public_body,no,199490.8
+101127968,ATHENA,"Establishing Cross-border SOCs","ETHNIKI ARCHI KYVERNOASFALEIAS",,877132007,Greece,GR,public_body,no,301954
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","CIBER TIEMPO REAL SISTEMAS S.L.",,877591981,Spain,ES,sme,yes,653100
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON",,999654356,Greece,GR,research_institution,no,486250
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",,999977851,,,university,no,558125
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","CYBERSOCIAL LAB SRL IMPRESA SOCIALE",,884047428,Italy,IT,research_institution,no,387500
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","ETRA INVESTIGACION Y DESARROLLO SA",,999926441,Spain,ES,company,no,410768.75
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","ITTI SP ZOO",,999969509,Poland,PL,sme,no,448962.5
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","FUNDACION DE LA COMUNIDAD VALENCIANA PARA LA INVESTIGACION, PROMOCION Y ESTUDIOS COMERCIALES DE VALENCIAPORT",,998709188,Spain,ES,research_institution,no,351125
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,no,490322.5
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","FAV INNOVATION AND TECHNOLOGIES COOP. V.",,893325187,Spain,ES,sme,no,449225
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","SIEC BADAWCZA LUKASIEWICZ - PRZEMYSLOWY INSTYTUT AUTOMATYKI I POMIAROW PIAP",,999549984,Poland,PL,research_institution,no,323375
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","SOUTH ENGINEERING SRL",,909752137,Italy,IT,sme,no,309400
+101225583,ATHENA,"ADVANCED VALIDATION AND TESTING ENVIRONMENT FOR ENHANCING THE EU HW AND SW VULNE","CATONE LOGISTICA S.R.L.",,884485965,Italy,IT,company,no,322000
+101167361,ATM-EXCITE,"Advancing Civil-Military Interoperability and","EURO-FUNDING EU PROJECTS SOCIEDAD LIMITADA",,909189731,Spain,ES,company,yes,231203.75
+101167361,ATM-EXCITE,"Advancing Civil-Military Interoperability and","INFODAS GESELLSCHAFT FUR SYSTEMENTWICKLUNG UND INFORMATIONSVERARBEITUNG MBH",,886154753,Germany,DE,company,no,174650
+101167361,ATM-EXCITE,"Advancing Civil-Military Interoperability and","""INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE AEROSPATIALA """"ELIE CARAFOLI""""- INCAS BUCURESTI""",,913125312,Romania,RO,research_institution,no,201210
+101167361,ATM-EXCITE,"Advancing Civil-Military Interoperability and","STAM SRL",,916965542,Italy,IT,sme,no,99907.5
+101167361,ATM-EXCITE,"Advancing Civil-Military Interoperability and","UPVISION S.R.O.",,914300273,Czechia,CZ,company,no,200026.25
+101167361,ATM-EXCITE,"Advancing Civil-Military Interoperability and","TECHNICKA UNIVERZITA V KOSICIACH",,999839238,Slovakia,SK,university,no,49610
+101128075,BCCR,"Binconf Range","BINARY CONFIDENCE S.R.O.",,888134717,Slovakia,SK,sme,yes,1184249.25
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","CBRA SERVICES",,889564012,Belgium,BE,sme,yes,582993.68
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","NEMZETI ADO- ES VAMHIVATAL",,952855930,Hungary,HU,public_body,no,145625.03
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","THE REVENUE COMMISSIONERS",,972417241,Ireland,IE,public_body,no,62937.5
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","HOME OFFICE",,999832351,,,public_body,no,108025.75
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","TOLLREGION OSLO OG AKERSHUS",,925845504,,,public_body,no,97362.5
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","RAPISCAN SYSTEMS LIMITED",,995950023,,,company,no,477033.6
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","SATWAYS-OLOKLIROMENES LYSEIS ASFALEIAS KAI AMYNAS-IDIOTIKI EPICHEIRISI PAROCHIS YPIRESION ASFALEIAS (IEPYA)-ETAIREIA PERIORISMENIS EFTHYNIS",,987804060,Greece,GR,sme,no,406210.49
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","INTA JSC",,881160320,Lithuania,LT,company,no,1086421.88
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","REZERO LIMITED",,883028443,Ireland,IE,company,no,243839.33
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","ANALYZE IQ LIMITED",,952507021,Ireland,IE,company,no,225728.48
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","RADIOS SEGELYHIVO ES INFOKOMMUNIKACIOS ORSZAGOS EGYESULET",,995782019,Hungary,HU,other,no,333125
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","VICESSE RESEARCH GMBH",,934366469,Austria,AT,research_institution,no,673500
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","TECHNISCHE UNIVERSITEIT DELFT",,999977366,Netherlands,NL,university,no,305625
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","UNIVERSITY OF GALWAY",,999978045,Ireland,IE,university,no,819380
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","AGILENT TECHNOLOGIES LDA UK LIMITED",,889259044,,,company,no,152309.51
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","CROSS-BORDER RESEARCH ASSOCIATION",,998764381,,,research_institution,no,
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","UNIVERSITE DE LAUSANNE",,999841469,,,university,no,
+101167589,BORDERLINK,"Border Control Agencies for Interlinked and I","THE UNIVERSITY OF NOTTINGHAM",,999976978,,,university,no,
+101190006,CADMUS,"Cultivating Cybersecurity Defence Expertise with M","ETHNIKI ARCHI KYVERNOASFALEIAS",,877132007,Greece,GR,public_body,yes,799825
+101190006,CADMUS,"Cultivating Cybersecurity Defence Expertise with M","INSTITOUTO TECHNOLOGIAS YPOLOGISTON KAI EKDOSEON DIOFANTOS",,999643783,Greece,GR,research_institution,no,1177000
+101190006,CADMUS,"Cultivating Cybersecurity Defence Expertise with M","STICHTING THE HAGUE SECURITY DELTA",,905753409,Netherlands,NL,other,no,257170.76
+101190006,CADMUS,"Cultivating Cybersecurity Defence Expertise with M","STICHTING CENTRUM VOOR VEILIGHEID EN DIGITALISERING",,878042352,Netherlands,NL,university,no,233060.45
+101190006,CADMUS,"Cultivating Cybersecurity Defence Expertise with M","SVEUCILISTE ALGEBRA BERNAYS",,879465051,Croatia,HR,university,no,426127.5
+101190006,CADMUS,"Cultivating Cybersecurity Defence Expertise with M","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,no,217450.75
+101190006,CADMUS,"Cultivating Cybersecurity Defence Expertise with M","EUROPEAN UNIVERSITY - CYPRUS LTD",,999739619,Cyprus,CY,university,no,35636.35
+101167904,CASTOR,"Trustworthy Networks and Path Security","GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",,985034419,Greece,GR,sme,yes,630000
+101167904,CASTOR,"Trustworthy Networks and Path Security","MELLANOX TECHNOLOGIES LTD - MLNX",,990560024,,,company,no,504910
+101167904,CASTOR,"Trustworthy Networks and Path Security","ORANGE ROMANIA SA",,954892445,Romania,RO,company,no,274400
+101167904,CASTOR,"Trustworthy Networks and Path Security","UNIVERSITATEA TEHNICA GHEORGHE ASACHI DIN IASI",,999853303,Romania,RO,university,no,187500
+101167904,CASTOR,"Trustworthy Networks and Path Security","COLLINS AEROSPACE IRELAND, LIMITED",,971136162,Ireland,IE,company,no,427315
+101167904,CASTOR,"Trustworthy Networks and Path Security","EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON",,999654356,Greece,GR,research_institution,no,391500
+101167904,CASTOR,"Trustworthy Networks and Path Security","SUITE5 DATA INTELLIGENCE SOLUTIONS LIMITED",,910462080,Cyprus,CY,company,no,393093.75
+101167904,CASTOR,"Trustworthy Networks and Path Security",K3Y,,905140563,Bulgaria,BG,sme,no,356125
+101167904,CASTOR,"Trustworthy Networks and Path Security","WINGS ICT SOLUTIONS TECHNOLOGIES PLIROFORIKIS KAI EPIKOINONION ANONYMI ETAIREIA",,952269953,Greece,GR,sme,no,383250
+101167904,CASTOR,"Trustworthy Networks and Path Security","UNIVERSIDAD DE MURCIA",,999844282,Spain,ES,university,no,401312.5
+101167904,CASTOR,"Trustworthy Networks and Path Security","FERON TECHNOLOGIES IDIOTIKI KEFALAIOUCHIKI ETAIREIA",,923477540,Greece,GR,sme,no,288750
+101167904,CASTOR,"Trustworthy Networks and Path Security","COMMSIGNIA Korlatolt Felelossegu Tarsasag",,951878461,Hungary,HU,sme,no,350875
+101167904,CASTOR,"Trustworthy Networks and Path Security","UNIVERSITEIT VAN AMSTERDAM",,999985708,Netherlands,NL,university,no,415080
+101167904,CASTOR,"Trustworthy Networks and Path Security","QUBITECH IDIOTIKI KEFALAIOUCHIKI ETAIREIA",,889088615,Greece,GR,sme,no,199500
+101167904,CASTOR,"Trustworthy Networks and Path Security","DIGITAL FOR PLANET-D4P",,897171237,,,other,no,
+101167904,CASTOR,"Trustworthy Networks and Path Security","UNIVERSITY OF SURREY",,999985223,,,university,no,
+101167904,CASTOR,"Trustworthy Networks and Path Security","UNIVERSITY OF KENT",,999841275,,,university,no,
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","Masarykova univerzita",,999880657,Czechia,CZ,university,yes,1608650
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","UNIVERSITAET PADERBORN",,999837492,Germany,DE,university,no,1559317.5
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","UNIVERSITA CA' FOSCARI  VENEZIA",,999897341,Italy,IT,university,no,500852.5
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","CYBERNETICA AS",,999754363,Estonia,EE,sme,no,151112.5
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","MONET+,A.S.",,872112257,Czechia,CZ,company,no,124250
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","10SEC SRL",,891533209,Italy,IT,sme,no,236543.58
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","TARTU ULIKOOL",,999895013,Estonia,EE,university,no,42430
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","RED HAT CZECH S R O",,897561953,Czechia,CZ,company,no,
+101225878,CCAT,"Cybersecurity Certification and Assessment Tools","TROPIC SQUARE S.R.O",,889715332,Czechia,CZ,sme,no,
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","BLUSPECS SL",,904412578,Spain,ES,company,yes,448125
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","ALLIANCE FOR AI, IOT AND EDGE CONTINUUM INNOVATION IVZW",,890036790,Belgium,BE,other,no,229375
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","IDC ITALIA SRL",,951376971,Italy,IT,company,no,171250
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots",TRIALOG,,999617884,France,FR,sme,no,233000
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","TRUST-IT SERVICES SRL",,906664821,Italy,IT,company,no,156125
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","VDI/VDE INNOVATION + TECHNIK GMBH",,999731568,Germany,DE,company,no,309250
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots",INSIDE,,940177448,Netherlands,NL,other,no,136875
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","IOT Tribe Ltd",,880465024,,,company,no,43750
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","IDC NORDIC A/S",,893422672,Denmark,DK,company,no,73125
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","IDC CEMA SRO",,923491993,Czechia,CZ,company,no,130000
+101189683,CEI-Sphere,"Cloud-Edge-IoT Spheres of Large-Scale Pilots","COMMPLA SRL",,951678738,Italy,IT,company,no,70750
+101249230,CERT.LV-SOC-LV,"Strengthening CERT.LV capabilities as National Security Operations Centre","LATVIJAS UNIVERSITATES MATEMATIKAS UN INFORMATIKAS INSTITUTS",,999645723,Latvia,LV,research_institution,yes,1171650
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","FUNDACION TECNALIA RESEARCH & INNOVATION",,999604110,Spain,ES,research_institution,yes,629337.5
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","HITACHI RAIL GTS AUSTRIA GMBH",,999750192,Austria,AT,company,no,293127.63
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","TTTECH COMPUTERTECHNIK AG",,999791029,Austria,AT,company,no,402453.63
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","DNV AS",,999929060,,,company,no,297937.5
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","SIMULA RESEARCH LABORATORY AS",,995915976,,,research_institution,no,704374
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","ELEKTROTECHNICKY ZKUSEBNI USTAV, SP",,919372888,Czechia,CZ,company,no,285687.5
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit",MINDCHIP,,884492755,Estonia,EE,company,no,117075
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",,985034419,Greece,GR,sme,no,307562.5
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","CATALINK LIMITED",,908583578,Cyprus,CY,company,no,150500
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",,999977851,,,university,no,448125
+101120606,CERTIFAI,"Agile conformance assessment for cybersecurit","SCHNEIDER ELECTRIC ESPANA SA",,951742079,Spain,ES,company,no,260225
+101249554,CHIEF,"Cybersecurity Hubs Interoperability and Coope","AGENZIA PER LA CYBERSICUREZZA NAZIONALE",,886338471,Italy,IT,public_body,yes,655910
+101249554,CHIEF,"Cybersecurity Hubs Interoperability and Coope","BUNDESMINISTERIUM FUR INNERES",,999826434,Austria,AT,public_body,no,251182.5
+101249554,CHIEF,"Cybersecurity Hubs Interoperability and Coope","ETHNIKI ARCHI KYVERNOASFALEIAS",,877132007,Greece,GR,public_body,no,255730
+101249554,CHIEF,"Cybersecurity Hubs Interoperability and Coope","LUXEMBOURG HOUSE OF CYBERSECURITY",,951805711,Luxembourg,LU,other,no,532860
+101249554,CHIEF,"Cybersecurity Hubs Interoperability and Coope","THE LISBON COUNCIL FOR ECONOMIC COMPETITIVENESS ASBL",,997420543,Belgium,BE,other,no,274990
+101083932,CIH,"Cybersecurity Innovation Hub","CYBERSECURITY HUB, ZU",,889292509,Czechia,CZ,research_institution,yes,526057.1
+101083932,CIH,"Cybersecurity Innovation Hub","Masarykova univerzita",,999880657,Czechia,CZ,university,no,127832.9
+101083932,CIH,"Cybersecurity Innovation Hub","CESKE VYSOKE UCENI TECHNICKE V PRAZE",,999848744,Czechia,CZ,university,no,179760
+101083932,CIH,"Cybersecurity Innovation Hub","VYSOKE UCENI TECHNICKE V BRNE",,999873091,Czechia,CZ,university,no,199448
+101083932,CIH,"Cybersecurity Innovation Hub","TECHNOLOGICKE CENTRUM PRAHA ZSPO",,999506334,Czechia,CZ,research_institution,no,35624
+101083932,CIH,"Cybersecurity Innovation Hub","REGIONALNI HOSPODARSKA KOMORA BRNO",,999777546,Czechia,CZ,other,no,169550
+101083932,CIH,"Cybersecurity Innovation Hub","NETWORK SECURITY MONITORING CLUSTERDRUZSTVO",,962586485,Czechia,CZ,company,no,61204
+101083932,CIH,"Cybersecurity Innovation Hub","INDUSTRY CLUSTER 4 0 ZS",,907779060,Czechia,CZ,other,no,98400
+101083932,CIH,"Cybersecurity Innovation Hub",CZECHINNO,,898867767,Czechia,CZ,other,no,183691
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","EVIDEN TECHNOLOGIES SRL",,893414621,Romania,RO,company,yes,1122965
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",,999583061,Spain,ES,research_institution,no,273171
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON",,999654356,Greece,GR,research_institution,no,486850
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","AQUATIM SA",,955532451,Romania,RO,company,no,118984
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","CONNECTING DOTS IPIRESIES PLIROFORIKIS IDIOTIKI KEFALAIOUCHIKI ETAIRIA",,906326194,Greece,GR,company,no,736053
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","LOGIKA APOTHIKEFSEIS EMPOREVMATON MONOPROSOPI ETAIREIA PERIORISMENIS EYTHINIS",,919352712,Greece,GR,company,no,118556
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist",K3Y,,905140563,Bulgaria,BG,sme,no,230050
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","TEMERON SRL",,876972830,Romania,RO,company,no,240750
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","TECHNISCHE UNIVERSITEIT DELFT",,999977366,Netherlands,NL,university,no,375343.16
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE",,999792581,Greece,GR,company,no,251450
+101249732,CIPHER,"Cybersecurity Intelligence, Protection, and Holist","F6S NETWORK IRELAND LIMITED",,900885658,Ireland,IE,sme,no,4679332.5
+101121325,CO-SECUR,"Knowledge building and social innovation for","SENIOR EUROPA SOCIEDAD LIMITADA",,955078394,Spain,ES,company,yes,420875
+101121325,CO-SECUR,"Knowledge building and social innovation for","UNIVERSITAT DE VALENCIA",,999953019,Spain,ES,university,no,276342.5
+101121325,CO-SECUR,"Knowledge building and social innovation for","SAFERGLOBE RY",,937633526,Finland,FI,other,no,116052.5
+101121325,CO-SECUR,"Knowledge building and social innovation for","DEUTSCH-EUROPAISCHES FORUM FUR URBANE SICHERHEIT EV",,937469402,Germany,DE,other,no,217000
+101121325,CO-SECUR,"Knowledge building and social innovation for","SHINE 2EUROPE LDA",,896845026,Portugal,PT,sme,no,254000
+101121325,CO-SECUR,"Knowledge building and social innovation for","EUROPEAN INTEGRATED PROJECT",,986593888,Romania,RO,company,no,98500
+101121325,CO-SECUR,"Knowledge building and social innovation for","EVALU SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",,896384373,Poland,PL,sme,no,120875
+101121325,CO-SECUR,"Knowledge building and social innovation for","TERO MONOPROSOPI IKE",,998841593,Greece,GR,company,no,126875
+101121325,CO-SECUR,"Knowledge building and social innovation for","SMART CONTINENT MANAGEMENT INSTITUTE UAB",,986357111,Lithuania,LT,company,no,94625
+101121325,CO-SECUR,"Knowledge building and social innovation for","DIGITALEUROPE AISBL*",,952919756,Belgium,BE,other,no,274812.5
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","""NATIONAL CENTER FOR SCIENTIFIC RESEARCH """"DEMOKRITOS""""""",,999978239,Greece,GR,research_institution,yes,504375
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","ROBERT BOSCH GMBH",,999908787,Germany,DE,company,no,302750
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","BOSCH GLOBAL SOFTWARE TECHNOLOGIES GMBH",,891252006,Germany,DE,company,no,460893.13
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","TUV SUD PRODUCT SERVICE GMBH",,953030530,Germany,DE,company,no,547575
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,715875
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","UNIVERSIDAD DE MURCIA",,999844282,Spain,ES,university,no,385000
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","EUROPEAN CYBER SECURITY ORGANISATION",,908176372,Belgium,BE,other,no,182625
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","UNIVERSITAT POLITECNICA DE CATALUNYA",,999976202,Spain,ES,university,no,325000
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",,999638739,Spain,ES,research_institution,no,349000
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","EBOS TECHNOLOGIES LIMITED",,997848022,Cyprus,CY,sme,no,337750
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","RED ALERT LABS",,913019776,France,FR,sme,no,244125
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","PRACTIN IKE",,885929907,Greece,GR,sme,no,201687.5
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","ELLINIKO MESOGEIAKO PANEPISTIMIO",,899132771,Greece,GR,university,no,230625
+101119602,COBALT,"Certification for Cybersecurity in EU ICT usi","INQBIT INNOVATIONS SRL",,895370529,Romania,RO,sme,no,209125
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","UNIVERSITY OF CYPRUS",,999835843,Cyprus,CY,university,yes,608437.5
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","UNIVERSIDAD DE SEVILLA",,999862518,Spain,ES,university,no,677250
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","TECHNISCHE UNIVERSITEIT DELFT",,999977366,Netherlands,NL,university,no,1192983.75
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","INGELECTUS INNOVATIVE ELECTRICAL SOLUTIONS SL",,915902616,Spain,ES,company,no,239225
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","SOUTHEAST ELECTRICITY NETWORK COORDINATION CENTER SELENE CC ANONYMI ETAIREIA",,884406231,Greece,GR,company,no,414165.5
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","EUROPEAN NETWORK FOR CYBER SECURITY COOPERATIEF UA",,952516721,Netherlands,NL,research_institution,no,548750
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","ENEXIS PERSONEEL BV",,911095005,Netherlands,NL,company,no,62418.13
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","CUERVA ENERGIA SLU",,903812051,Spain,ES,sme,no,156625
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","DIACHEIRISTIS ELLINIKOU DIKTYOU DIANOMIS ELEKTRIKIS ENERGEIAS AE",,953032082,Greece,GR,company,no,428750
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","I. KAI K. MICHANIKI ILEKTRIKON SYSTIMATON - ETAIRIA PERIORISMENIS EFTHYNIS",,884804416,Greece,GR,company,no,178062.5
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","ARISTOTELIO PANEPISTIMIO THESSALONIKIS",,999895692,Greece,GR,university,no,712187.5
+101120221,COCOON,"COoperative Cyber prOtectiON for modern power","UNIVERSITY OF GLASGOW",,999974165,,,university,no,
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres",28DIGITAL,,954616286,Belgium,BE,other,yes,751487.75
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","EUROPEAN ORGANISATION FOR SECURITY",,998215943,Belgium,BE,company,no,363238.25
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","THE LISBON COUNCIL FOR ECONOMIC COMPETITIVENESS ASBL",,997420543,Belgium,BE,other,no,576970.75
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","UNIVERSITE LIBRE DE BRUXELLES",,999986290,Belgium,BE,university,no,467429.5
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","AUSTRALO INTERINNOV MARKETING LAB SL",,895851067,Spain,ES,sme,no,232029.5
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","GOSPODARSKA ZBORNICA SLOVENIJE",,999780165,Slovenia,SI,other,no,84182.25
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","IVSZ DIGITALIS VALLALKOZASOK SZOVETSEGE",,999794230,Hungary,HU,other,no,64601.25
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","ASOCIACIJA INFOBALT",,970234450,Lithuania,LT,other,no,81052.5
+101158606,COcyber,"COcyber - Coordination between the cybersecurity civilian and defence spheres","ASOCIACION MULTISECTORIAL DE EMPRESAS DE LA ELECTRONICA, LAS TECNOLOGIAS DE LA INFORMACION Y LA COMUNICACION, DE LAS TELECOMUNICACIONES Y DE LOS CONTENIDOS DIGITALES",,968769750,Spain,ES,other,no,352163.75
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","INFORMATION TECHNOLOGY FOR MARKET LEADERSHIP",,947413066,Greece,GR,company,yes,387340
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","MOTOR OIL (HELLAS) DIILISTIRIA KORINTHOU A.E.",,983298410,Greece,GR,company,no,252841
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","ONEKEY GMBH",,881479644,Germany,DE,company,no,1230660.5
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","7LAYERS GMBH",,880897741,Germany,DE,company,no,169862.5
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","ETHNIKI YPIRESIA PLIROFORION",,879456806,Greece,GR,public_body,no,165315
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","SLOA LIMITED",,906790048,Cyprus,CY,company,no,161035
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","AppArt ANONIMI ETERIA NEON TECHNOLOGION PLIROFORIKIS KE TILEPIKINONION",,941424286,Greece,GR,company,no,338120
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","TIKO PRO, PODJETNISKO SVETOVANJE, DOO",,934680943,Slovenia,SI,company,no,256800
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","ERMINAS GMBH",,881147516,Germany,DE,company,no,202765
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","SEVENSHIFT GMBH",,886959853,Germany,DE,company,no,626538.5
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","MEAZON SA",,929853156,Greece,GR,company,no,209666.5
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","ZAVOD DIGITALNO INOVACIJSKO STICISCE SLOVENIJE",,893668276,Slovenia,SI,other,no,70427.4
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","MOTOR OIL RENEWABLE ENERGY MONOPROSOPI AE",,887060927,Greece,GR,company,no,150549
+101158539,CRACoWi,"Cyber Resilience Act Compliance Wizard","Urad Vlade Republike Slovenije za informacijsko varnost",,889274176,Slovenia,SI,public_body,no,
+101226247,CSC-EDIC,"Cybersecurity Skills Academy","ETHNIKI ARCHI KYVERNOASFALEIAS",,877132007,Greece,GR,public_body,yes,2304780
+101226247,CSC-EDIC,"Cybersecurity Skills Academy","AED - AGENTUR FUR WIRTSCHAFTLICHE ZUSAMMENARBEIT UND ENTWICKLUNG",,892302516,Austria,AT,other,no,739370
+101226247,CSC-EDIC,"Cybersecurity Skills Academy","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,no,85600
+101128107,CTIOC,"Cyber Threat Intelligence Operations Centre (","CENTRAL BANK OF IRELAND",,921502523,Ireland,IE,public_body,yes,1398719
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","RISE RESEARCH INSTITUTES OF SWEDEN AB",,999613422,Sweden,SE,research_institution,yes,888750
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","DEKRA SE",,902084772,Germany,DE,company,no,175966
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","RED ALERT LABS",,913019776,France,FR,sme,no,321387.5
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","MAGGIOLI SPA",,996621457,Italy,IT,company,no,382375
+101120684,CUSTODES,"A Certification approach for dynamic. agile a",28DIGITAL,,954616286,Belgium,BE,other,no,61750
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","AEGIS IT RESEARCH GMBH",,911867804,Germany,DE,company,no,308000
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","SECURITY LABS CONSULTING LIMITED",,895392645,Ireland,IE,company,no,285250
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","TELEFONICA INNOVACION DIGITAL SL",,917790915,Spain,ES,company,no,278227.25
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","FUNDACIO PRIVADA I2CAT, INTERNET I INNOVACIO DIGITAL A CATALUNYA",,999583061,Spain,ES,research_institution,no,281000
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","P-NET ANADYOMENA DIKTYA NEAS GENIAS & EFARMOGES IDIOTIKI KEFALAIOUCHIKI ETAIREIA",,887635749,Greece,GR,company,no,222250
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","APIROPLUS SOLUTIONS LTD",,897731121,Cyprus,CY,company,no,279125
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","TRUSTILIO BV",,889600872,Netherlands,NL,sme,no,241797.5
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","SISTIMATA TILEPIKINONION ANTONIS GEORGIOU MONOPROSOPI ETERIA PERIORISMENIS EFTHINIS",,906354518,Greece,GR,company,no,216125
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","CYBERALYTICS LIMITED",,886488239,Cyprus,CY,sme,no,403375
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","Circular Economy Foundation",,891042777,Belgium,BE,other,no,303750
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","DEKRA TESTING AND CERTIFICATION SAU",,999789962,Spain,ES,company,no,114905
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","EIT DIGITAL SPAIN",,893135746,Spain,ES,other,no,235125
+101120684,CUSTODES,"A Certification approach for dynamic. agile a","SPHYNX TECHNOLOGY SOLUTIONS AG",,881338703,,,company,no,
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,yes,445435.65
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","CYBERALYTICS LIMITED",,886488239,Cyprus,CY,sme,no,
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","ANOIKTO PANEPISTIMIO KYPROU (OPEN UNIVERSITY OF CYPRUS)",,989697985,Cyprus,CY,university,no,311905
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","CYENTIFIC AS",,883934423,,,company,no,170665
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","KYPRIAKON EMBORIKON KAI BIOMICHANIKON EPIMELITIRION",,950669938,Cyprus,CY,other,no,95230
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","EUROGATE CONTAINER TERMINAL LIMASSOL LIMITED",,893171054,Cyprus,CY,company,no,163442.5
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","ARCHI LIMENON KYPROU",,920827500,Cyprus,CY,public_body,no,182269.15
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","YFYPOURGEIO NAFTILIAS",,887593069,Cyprus,CY,public_body,no,198367.3
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","YFYPOURGEIO EREVNAS, KAINOTOMIAS KAI PSIFIAKIS POLITIKIS",,894749632,Cyprus,CY,public_body,no,127972
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","ARCHI ILEKTRISMOU KYPROU",,996359557,Cyprus,CY,public_body,no,69015
+101128017,CY-TRUST,"Cypriot Sectorial Security Operations Centres","SPHYNX ANALYTICS LIMITED",,898261614,Cyprus,CY,company,no,167990
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","I-ENERGYLINK SRL",,890460971,Romania,RO,sme,yes,465450
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","Boltonshield Hungary KFT",,873345612,Hungary,HU,sme,no,307090
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,no,235935
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","CLONE SYSTEMS CY LTD",,884494016,Cyprus,CY,sme,no,540885
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,351174
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","ELIAS NEOCLEOUS AND CO. LLC",,883373084,Cyprus,CY,sme,no,295186.25
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","EXIMPROD ENGINEERING S.A.",,924141214,Romania,RO,sme,no,407509.5
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","DIRECTIA GENERALA DE PROTECTIE INTERNA",,889270393,Romania,RO,public_body,no,112885
+101249702,CYBER-BRIDGE,"Building Cross-Border Cybersecurity and Compliance","DIETHNES PANEPISTIMIO ELLADOS",,969038343,Greece,GR,university,no,203835
+101145879,Cyber-CORE-Network,"An Interconnected Ecosystem of Cyber Security Coor","Department of Climate, Energy and the Environment",,996559280,Ireland,IE,public_body,yes,1775586.36
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","UNION FOR STOPANSKA INICIATIVA",,893069883,Bulgaria,BG,other,yes,290981.15
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","TSIFROV INOVATSIONEN HAB TRAKIA",,887400815,Bulgaria,BG,research_institution,no,366619.99
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","BALGARSKA ASOTSIATSIA PO KIBERSIGURNOST",,887380542,Bulgaria,BG,other,no,440457.48
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","NEW I JSC",,871501836,Bulgaria,BG,sme,no,282391.73
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","TRAKIYSKI UNIVERSITET",,999869502,Bulgaria,BG,university,no,113797.18
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","INSTITUTE OF INFORMATION AND COMMUNICATION TECHNOLOGIES",,973354455,Bulgaria,BG,university,no,125204.98
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","OBSHTINA PLOVDIV",,995601696,Bulgaria,BG,public_body,no,64305.93
+101256930,"CYBER4ALL 2.0","CYBERSECURITY FOR All v 2.0","KLASTER IZKUSTVEN INTELEKT BULGARIA",,890023404,Bulgaria,BG,other,no,164591.68
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","UNIVERSIDAD DE GRANADA",,999882015,Spain,ES,university,yes,441452.58
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","UNIVERSIDADE DO MINHO",,999995505,Portugal,PT,university,no,188376.18
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","UNIVERSITA DEGLI STUDI DI PADOVA",,999995602,Italy,IT,university,no,380512.33
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","VILNIAUS UNIVERSITETAS",,999893170,Lithuania,LT,university,no,352580.52
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","SECURIQ SISTEMAS SL",,927665806,Spain,ES,sme,no,18783.85
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","DIGITALSIGN - CERTIFICADORA DIGITAL SA",,893625984,Portugal,PT,company,no,10416.45
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","EUROTUX INFORMATICA S.A.",,884024148,Portugal,PT,sme,no,10416.45
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","AMPED SRL",,997243033,Italy,IT,sme,no,11972.23
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","QASCOM SRL",,998738385,Italy,IT,sme,no,14045.89
+101123445,CYBERACTIONING,"Training Cybersecurity Skills through Advanced Hig","FUNDACION IMDEA NETWORKS",,999651058,Spain,ES,research_institution,no,22633.71
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",,999668227,Greece,GR,company,yes,397862.5
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","DNV AS",,999929060,,,company,no,288487.5
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","THALES SIX GTS FRANCE SAS",,999971934,France,FR,company,no,336875
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","NETCOMPANY S.A.",,999702371,Luxembourg,LU,company,no,410375
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","SIEMENS SRL",,953556755,Romania,RO,company,no,250425
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","MAGGIOLI SPA",,996621457,Italy,IT,company,no,336000
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","SPACE HELLAS ANONYMI ETAIREIA SYSTIMATA KAI YPIRESIES TILEPIKOINONIONPLIROFORIKIS ASFALEIAS - IDIOTIKI EPICHEIRISI PAROCHIS YPERISION ASFA",,999778322,Greece,GR,company,no,344750
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","CYBERETHICS LAB SRLS",,915041547,Italy,IT,company,no,
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","DIGITAL SYSTEMS 4.0",,892351307,Bulgaria,BG,sme,no,
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","UNPARALLEL INNOVATION LDA",,953318426,Portugal,PT,sme,no,314562.5
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","TELEFONICA INNOVACION DIGITAL SL",,917790915,Spain,ES,company,no,294411.25
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE",,999792581,Greece,GR,company,no,167300
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","ASM TERNI SPA",,952604700,Italy,IT,company,no,269500
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","ENTERSOFT ANONYMI ETAIREIA PARAGOGIS KAI EMPORIAS LOGISMIKOU KAI IPIRESION",,954558474,Greece,GR,company,no,288575
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","MEDITCINSKY UNIVERSITET-PLOVDIV",,997876346,Bulgaria,BG,university,no,146250
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","SORBONNE UNIVERSITE",,909875521,France,FR,university,no,255025
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","UNIVERSIDAD POLITECNICA DE MADRID",,999974844,Spain,ES,university,no,257573.75
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN",,999983962,Germany,DE,university,no,275000
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","PANEPISTIMIO PATRON",,999894528,Greece,GR,university,no,221875
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","UNIVERSIDAD CARLOS III DE MADRID",,999899572,Spain,ES,university,no,186250
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","ECLIPSE FOUNDATION EUROPE GMBH",,944758564,Germany,DE,company,no,194337.5
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","CYBERSOCIAL LAB SRL IMPRESA SOCIALE",,884047428,Italy,IT,research_institution,no,163625
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","XGILITY LIMITED",,884010083,Ireland,IE,company,no,291375
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","CYBERTECH SRL",,898887361,Italy,IT,company,no,59062.5
+101168182,CyberNEMO,"End-to-end Cybersecurity to NEMO Meta-OS","SPHYNX TECHNOLOGY SOLUTIONS AG",,881338703,,,company,no,
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","FONDAZIONE E. AMALDI",,912065781,Italy,IT,research_institution,yes,301205
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","S2 GRUPO SOLUCIONES DE SEGURIDAD SL",,986190853,Spain,ES,company,no,314045
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","TELECOM ITALIA SPA O TIM SPA",,999908496,Italy,IT,company,no,372092.5
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","AB CORPORATION",,897046786,Belgium,BE,sme,no,181900
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","INNOVATION HIVE - KYPSELI KAINOTOMIAS",,895619140,Greece,GR,research_institution,no,395097.5
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","TESEAS S.R.L.",,945399443,Italy,IT,sme,no,155150
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","PRO.M.ODA SRL",,878026832,Italy,IT,sme,no,187250
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","FUNDACIO KNOWLEDGE INNOVATION MARKET BARCELONA",,997219559,Spain,ES,other,no,253857.5
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","TELSY S.P.A.",,888984825,Italy,IT,company,no,80250
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","EPIMELITIRIO LARISSAS",,947714445,Greece,GR,public_body,no,
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","CONSORZIO DI RICERCA HYPATIA",,937213225,Italy,IT,research_institution,no,
+101190009,"CyberPro Train","elevating CYBERsecurity PROfessionals by critical","ASSOCIAZIONE CYBER 4.0",,898709172,Italy,IT,other,no,
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","MAGGIOLI SPA",,996621457,Italy,IT,company,yes,503125
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","TECHNISCHE UNIVERSITAET MUENCHEN",,999977463,Germany,DE,university,no,481250
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","AIRBUS CYBERSECURITY SAS",,952774935,France,FR,company,no,429100
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","ATHENS INTERNATIONAL AIRPORT S.A.",,999484994,Greece,GR,company,no,306250
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion",28DIGITAL,,954616286,Belgium,BE,other,no,1403125
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE",,999792581,Greece,GR,company,no,290500
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","INSTITUT MINES-TELECOM",,999849326,France,FR,university,no,370625
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","LINKOPINGS UNIVERSITET",,999852236,Sweden,SE,university,no,272500
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","AEGIS IT RESEARCH GMBH",,911867804,Germany,DE,company,no,401275
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","SECURITY LABS CONSULTING LIMITED",,895392645,Ireland,IE,company,no,300387.5
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","POLYTECHNEIO KRITIS",,924773848,Greece,GR,university,no,321250
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","CYBERALYTICS LIMITED",,886488239,Cyprus,CY,sme,no,359625
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","IOTAM INTERNET OF THINGS APPLICATIONS AND MULTI LAYER DEVELOPMENT LTD",,912549326,Cyprus,CY,company,no,310625
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","SPHYNX TECHNOLOGY SOLUTIONS AG",,881338703,,,company,no,
+101120779,CyberSecDome,"An innovative Virtual Reality based intrusion","ANGLIA RUSKIN UNIVERSITY",,991657094,,,university,no,
+101158521,CYBERSTAND.eu,"Engaging & supporting EU experts in cybersecurity","TRUST-IT SERVICES SRL",,906664821,Italy,IT,company,yes,2038483.75
+101158521,CYBERSTAND.eu,"Engaging & supporting EU experts in cybersecurity","EUROPEAN CYBER SECURITY ORGANISATION",,908176372,Belgium,BE,other,no,252948
+101158521,CYBERSTAND.eu,"Engaging & supporting EU experts in cybersecurity","EUROPEAN DIGITAL SME ALLIANCE",,991656609,Belgium,BE,other,no,240482.5
+101158521,CYBERSTAND.eu,"Engaging & supporting EU experts in cybersecurity","COMITE EUROPEEN DE NORMALISATION",,999950691,Belgium,BE,other,no,140190
+101158521,CYBERSTAND.eu,"Engaging & supporting EU experts in cybersecurity","COMITE EUROPEEN DE NORMALISATION ELECTROTECHNIQUE",,998036784,Belgium,BE,other,no,60810
+101158521,CYBERSTAND.eu,"Engaging & supporting EU experts in cybersecurity","INSTITUT EUROPEEN DES NORMES DE TELECOMMUNICATION ASSOCIATION",,999580733,France,FR,research_institution,no,202363.75
+101158521,CYBERSTAND.eu,"Engaging & supporting EU experts in cybersecurity","COMMPLA SRL",,951678738,Italy,IT,company,no,64721.09
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","MAGGIOLI SPA",,996621457,Italy,IT,company,yes,4431565.5
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","EBOS TECHNOLOGIES LIMITED",,997848022,Cyprus,CY,sme,no,392904
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","IANUS TECHNOLOGIES LTD",,898543593,Cyprus,CY,sme,no,317255
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","TRUSTILIO BV",,889600872,Netherlands,NL,sme,no,269950.3
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","UNIVERSITY OF PIRAEUS RESEARCH CENTER",,999586941,Greece,GR,university,no,185752
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,no,167390.8
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","ETHNIKI YPIRESIA PLIROFORION",,879456806,Greece,GR,public_body,no,167990
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","FOCAL POINT",,937215456,Belgium,BE,sme,no,325708
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","BYTE COMPUTER ANONYMI VIOMICHANIKIEMPORIKI ETAIREIA",,996421540,Greece,GR,company,no,242890
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","DIMOS EGALEO",,933973716,Greece,GR,public_body,no,117967.5
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","MERIDIAN SRL",,880585401,Italy,IT,sme,no,221490
+101158555,CYberSynchrony,"Harmonizing People, Processes, and Technology for","SAMOUTIS KAI SYNERGATES IEPE",,890195094,Cyprus,CY,sme,no,157290
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",,999977851,,,university,yes,437016.31
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","ΚΥΠΡΙΑΚΟ ΕΡΕΥΝΗΤΙΚΟ ΚΑΙ ΑΚΑΔΗΜΑΪΚΟ ΔΙΚΤΥΟ (KYPRIAKO EREVNITIKO KAI AKADIMAIKO DIKTYO)",,998319830,Cyprus,CY,research_institution,no,141989
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","AC GOLDMAN SOLUTIONS&SERVICES GSS LTD",,917565390,Cyprus,CY,sme,no,195328.5
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","ELLINIKO MESOGEIAKO PANEPISTIMIO",,899132771,Greece,GR,university,no,154454.5
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","UNIVERSITY OF PIRAEUS RESEARCH CENTER",,999586941,Greece,GR,university,no,150174.5
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","SPHYNX HELLAS ANONYMI ETAIREIA",,883514607,Greece,GR,sme,no,346198.5
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",,999584128,Austria,AT,research_institution,no,200021.52
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","IDRYMA TECHNOLOGIAS KAI EREVNAS",,999995893,Greece,GR,research_institution,no,138404.5
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,no,171574.5
+101128024,CYBERUNITY,"Community for Integrating and Opening Cyber R","SIHTASUTUS CR14",,889890320,Estonia,EE,research_institution,no,12651.19
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE",28DIGITAL,,954616286,Belgium,BE,other,yes,676507.5
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","AALTO UNIVERSITY EXECUTIVE EDUCATION OY",,939575951,Finland,FI,sme,no,209506
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","COFAC COOPERATIVA DE FORMACAO E ANIMACAO CULTURAL CRL",,997605425,Portugal,PT,university,no,223630
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","ETHNICON METSOVION POLYTECHNION",,999978142,Greece,GR,university,no,234918.5
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","RIGAS TEHNISKA UNIVERSITATE",,999920718,Latvia,LV,university,no,185110
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","TALENT GARDEN ITALIA SRL",,889574779,Italy,IT,company,no,361125
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","UNIVERSITATEA BABES BOLYAI",,999860578,Romania,RO,university,no,158895
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","KUNGLIGA TEKNISKA HOEGSKOLAN",,999990946,Sweden,SE,university,no,137495
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","EOTVOS LORAND TUDOMANYEGYETEM",,999896468,Hungary,HU,university,no,123050
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","DIGITALEUROPE AISBL*",,952919756,Belgium,BE,other,no,52028.75
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","POLITECNICO DI MILANO",,999879881,Italy,IT,university,no,246100
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","UNIVERSITA DEGLI STUDI DI TRENTO",,999841954,Italy,IT,university,no,74900
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","TAMPEREEN KORKEAKOULUSAATIO SR",,902999288,Finland,FI,university,no,181418.5
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","RISE RESEARCH INSTITUTES OF SWEDEN AB",,999613422,Sweden,SE,research_institution,no,98520.25
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","LINKOPINGS UNIVERSITET",,999852236,Sweden,SE,university,no,83995
+101189986,CYCERONE,"CYbersecurity aCadEmy foR educatiOn and experieNcE","EIT DIGITAL SPAIN",,893135746,Spain,ES,other,no,250380
+101128052,CYDERCO,"CYber DEtection. Response and COllaboration","EVIDEN TECHNOLOGIES SRL",,893414621,Romania,RO,company,yes,499155
+101128052,CYDERCO,"CYber DEtection. Response and COllaboration","INSTITUTO SUPERIOR DE ENGENHARIA DO PORTO",,999642813,Portugal,PT,university,no,288365
+101128052,CYDERCO,"CYber DEtection. Response and COllaboration","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,409596
+101128052,CYDERCO,"CYber DEtection. Response and COllaboration","ATOS SPAIN SA",,999993856,Spain,ES,company,no,243425
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","AVL LIST GMBH",,999952243,Austria,AT,company,yes,615225
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","SILICON AUSTRIA LABS GMBH",,901837907,Austria,AT,research_institution,no,237009.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","INFINEON TECHNOLOGIES AUSTRIA  AG",,999705087,Austria,AT,company,no,419472.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","VIRTUAL VEHICLE RESEARCH GMBH",,997885852,Austria,AT,research_institution,no,335562.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","VYSOKE UCENI TECHNICKE V BRNE",,999873091,Czechia,CZ,university,no,486018.75
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","TECHNISCHE UNIVERSITAET GRAZ",,999977948,Austria,AT,university,no,275205
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","IDEAS & MOTION SRL",,951805323,Italy,IT,company,no,277375
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","VERUM SOFTWARE TOOLS B.V.",,924512433,Netherlands,NL,company,no,279562.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","TEKNOLOGIAN TUTKIMUSKESKUS VTT OY",,932760440,Finland,FI,research_institution,no,333374.83
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","TECHNISCHE HOCHSCHULE ROSENHEIM / TECHNICAL UNIVERSITY OF APPLIED SCIENCES",,955606365,Germany,DE,university,no,227444
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","ELEKTRONIKAS UN DATORZINATNU INSTITUTS",,997829883,Latvia,LV,research_institution,no,161538.13
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","GIM OY",,896253714,Finland,FI,company,no,133437.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","SYGKLISI ASTIKI MI KERDOSKOPIKI ETAIREIA",,889214036,Greece,GR,other,no,160387.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","IOTAM INTERNET OF THINGS APPLICATIONS AND MULTI LAYER DEVELOPMENT LTD",,912549326,Cyprus,CY,company,no,424375
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","NXP SEMICONDUCTORS NETHERLANDS BV",,999995020,Netherlands,NL,company,no,649687.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","VAISTO SOLUTIONS OY",,911526946,Finland,FI,company,no,37566.38
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","ZF FRIEDRICHSHAFEN AG",,989177871,Germany,DE,company,no,115375
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","INSAR.SK SRO",,920733992,Slovakia,SK,company,no,250398.75
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo",XENOMATIX,,922739855,Belgium,BE,company,no,323741.25
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","SMARTSOL SIA",,898044334,Latvia,LV,sme,no,187906.25
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","INSTITUT MIKROELEKTRONICKYCH APLIKACI SRO",,999697424,Czechia,CZ,company,no,100625
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,185929.87
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","PRODRIVE TECHNOLOGIES INNOVATION SERVICES B.V.",,886343903,Netherlands,NL,company,no,489970
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","UNIVERSITAET GRAZ",,999873188,Austria,AT,university,no,145250
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","DRIVEU TECH LTD",,897000129,,,company,no,630262.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","TECHNISCHE UNIVERSITEIT EINDHOVEN",,999977269,Netherlands,NL,university,no,894989.38
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","STMICROELECTRONICS SRL",,999977657,Italy,IT,company,no,81035.18
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","BELGAN BV",,996719524,Belgium,BE,company,no,
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","TECHNISCHE UNIVERSITEIT DELFT",,999977366,Netherlands,NL,university,no,205521.75
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","GROPYUS TECHNOLOGIES GMBH",,882468947,Germany,DE,company,no,265359.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","KUNGLIGA TEKNISKA HOEGSKOLAN",,999990946,Sweden,SE,university,no,163490.25
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","STRIKERSOFT AB",,952679390,Sweden,SE,company,no,243206.25
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","MURATA ELECTRONICS OY",,999943901,Finland,FI,company,no,105543.75
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","MEDISYS MONOPROSOPI IKE",,896321517,Greece,GR,company,no,245000
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","TTTECH AUTO GMBH",,905293435,Austria,AT,company,no,191302.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","POLITECNICO DI TORINO",,999977754,Italy,IT,university,no,124250
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","SLEEP ADVICE TECHNOLOGIES SRL",,904932110,Italy,IT,company,no,118125
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","MEVEA OY",,933817643,Finland,FI,company,no,100187.5
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","UAB TERAGLOBUS",,910939514,Lithuania,LT,sme,no,33250
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","GROPYUS AG",,887691039,Austria,AT,company,no,34923.75
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE INCORPORATED",,992251995,,,research_institution,no,
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","BOARD OF REGENTS OF NEVADA SYSTEM OF HIGHER EDUCATION",,895924593,,,university,no,
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","FRIEDRICH-ALEXANDER-UNIVERSITAET ERLANGEN-NUERNBERG",,999995408,Germany,DE,university,no,
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","RECHI PRECISION CO.,LTD",,877526894,,,company,no,
+101140226,Cynergy4MIE,"Leverage synergy by cyber-physical systems fo","FUTU-RE Co., Ltd.",,875080069,,,sme,no,
+101128088,CYRESRANGE,"Cyber Ranges Resiliency Networks","UNIVERSITATEA MARITIMA DIN CONSTANTA",,949667734,Romania,RO,university,yes,116790.5
+101128088,CYRESRANGE,"Cyber Ranges Resiliency Networks","BIT SENTINEL SECURITY SRL",,911463120,Romania,RO,sme,no,367304.25
+101128088,CYRESRANGE,"Cyber Ranges Resiliency Networks","ASOCIATIA CLUSTERUL DE EXCELENTA IN SECURITATE CIBERNETICA",,883525859,Romania,RO,other,no,109460
+101128088,CYRESRANGE,"Cyber Ranges Resiliency Networks","CYBER DACIANS SRL",,891044426,Romania,RO,sme,no,208810.5
+101128088,CYRESRANGE,"Cyber Ranges Resiliency Networks","INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE IN INFORMATICA ICI BUCURESTI RA",,999593537,Romania,RO,research_institution,no,148997.5
+101128088,CYRESRANGE,"Cyber Ranges Resiliency Networks","ORANGE ROMANIA SA",,954892445,Romania,RO,company,no,117325
+101128088,CYRESRANGE,"Cyber Ranges Resiliency Networks","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,32956
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","DEEP BLUE SRL",,998325941,Italy,IT,company,yes,434826.6
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA SOCIETA BENEFIT",,999647178,Italy,IT,research_institution,no,299803.3
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","STICHTING VU",,954530344,Netherlands,NL,university,no,19627.33
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","CYBER RANGES LTD",,911655568,Cyprus,CY,sme,no,130919.85
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","STOWARZYSZENIE POLSKA PLATFORMA BEZPIECZENSTWA WEWNETRZNEGO",,956594116,Poland,PL,research_institution,no,153028.87
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","EIT MANUFACTURING CENTRAL GGMBH",,896668680,Germany,DE,other,no,168739
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","ITALIENISCHE HANDELSKAMMER FUR DEUTSCHLAND",,997756939,Germany,DE,other,no,111258.6
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","UNION INTERNATIONALE DES CHEMINS DE FER",,999738649,France,FR,other,no,310856.4
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","EUROPEAN FEDERATION FOR WELDING JOINING AND CUTTING",,997334213,Belgium,BE,other,no,154368.9
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","UNIVERSITATEA SPIRU HARET",,986311521,Romania,RO,university,no,
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","VIESOJI ISTAIGA LIETUVOS INOVACIJU CENTRAS",,999456476,Lithuania,LT,public_body,no,102912.6
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","EPIMELITIRIO CHALKIDIKI",,929448957,Greece,GR,public_body,no,75092.6
+101100733,CYRUS,"A personalised, customised, work-based training framework for enhanced CYbeR-sec","SEARCH-LAB BIZTONSAGI ERTEKELO ELEMZO ES KUTATO LABORATORIUM KORLATOLTFELELOSSEGU TARSASAG",,999704893,Hungary,HU,company,no,104687.8
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca","LEUVEN SECURITY EXCELLENCE CONSORTIUM L-SEC VZW",,989929815,Belgium,BE,other,yes,5340803.35
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca","FUNDINGBOX ACCELERATOR SP ZOO",,951227688,Poland,PL,other,no,266344
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,228445
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca","SME INSTITUTO NACIONAL DE CIBERSEGURIDAD DE ESPANA MP SA",,987077918,Spain,ES,company,no,163710
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca","TOREON BV",,883224286,Belgium,BE,sme,no,217809.2
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca",CEEYU,,883464652,Belgium,BE,sme,no,301740
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca","CYBER RANGES LTD",,911655568,Cyprus,CY,sme,no,309765
+101158471,CYSSDE,"CyberSecurity Deplopyment Preparedness Support, Ca","FUNDINGBOX COMMUNITIES SL",,911373783,Spain,ES,other,no,155471
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","INERIS DEVELOPPEMENT",,950138766,France,FR,company,yes,298750
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","COMITE TECHNIQUE INTERNATIONAL DE PREVENTION ET D'EXTINCTION DU FEU (CTIF) DITE ASSOCIATION INTERNATIONALE DES SERVICES D'INCENDIE ET DE SECOURS",,988008051,France,FR,other,no,66250
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","GASILSKA ZVEZA SLOVENIJE",,893684863,Slovenia,SI,other,no,41500
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","CESKA ASOCIACE HASICSKYCH DUSTOJNIKU SDRUZENI",,955238250,Czechia,CZ,other,no,87094
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","ESCOLA NACIONAL DE BOMBEIROS",,937177432,Portugal,PT,research_institution,no,51031
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","OSTERREICHISCHES ROTES KREUZ",,988226010,Austria,AT,other,no,66562
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,158859
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",,999988909,Netherlands,NL,research_institution,no,173664
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","KENTRO MELETON ASFALEIAS",,999827307,Greece,GR,research_institution,no,124062
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","ASSOCIATION PEGASE",,960414461,France,FR,other,no,369375
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","WOITSCH CONSULTING OY",,899266534,Finland,FI,sme,no,77875
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","RESILIENCE ADVISORS (EUROPE) LIMITED",,904172891,Ireland,IE,company,no,170625
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","INSTITUT NATIONAL DE L ENVIRONNEMENT INDUSTRIEL ET DES RISQUES - INERIS",,999958063,France,FR,research_institution,no,112806
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","TRILATERAL RESEARCH LIMITED",,909169458,Ireland,IE,sme,no,156484
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","PLATAFORMA TECNOLOGICA ESPAÑOLA DE SEGURIDAD INDUSTRIAL",,971870064,Spain,ES,research_institution,no,56825
+101121249,DIREKTION,"Disaster Resilience Knowledge Network promoti","FEDERATION OF EUROPEAN UNION FIRE OFFICER ASSOCIATIONS ASBL",,952230668,Luxembourg,LU,other,no,
+101225575,ECHO,"Empowering and Connecting Diverse Communities","NETCOMPANY S.A.",,999702371,Luxembourg,LU,company,yes,508753.22
+101225575,ECHO,"Empowering and Connecting Diverse Communities","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,no,496250
+101225575,ECHO,"Empowering and Connecting Diverse Communities","CS GROUP - France",,999938275,France,FR,company,no,383687.5
+101225575,ECHO,"Empowering and Connecting Diverse Communities","GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",,985034419,Greece,GR,sme,no,350437.5
+101225575,ECHO,"Empowering and Connecting Diverse Communities","INSTITUT ZA KORPORATIVNE VARNOSTNE STUDIJE LJUBLJANA",,929256994,Slovenia,SI,research_institution,no,399625
+101225575,ECHO,"Empowering and Connecting Diverse Communities","RESILIENT WORLDS LTD",,875527433,,,sme,no,116375
+101225575,ECHO,"Empowering and Connecting Diverse Communities","UNIVERSIDAD POLITECNICA DE MADRID",,999974844,Spain,ES,university,no,365250
+101225575,ECHO,"Empowering and Connecting Diverse Communities","UNIVERSITA DEGLI STUDI DI UDINE",,999899281,Italy,IT,university,no,197500
+101225575,ECHO,"Empowering and Connecting Diverse Communities","REGIONE AUTONOMA FRIULI-VENEZIA GIULIA",,983174347,Italy,IT,public_body,no,85000
+101225575,ECHO,"Empowering and Connecting Diverse Communities","COMUNE DI GEMONA DEL FRIULI",,876736247,Italy,IT,public_body,no,85000
+101225575,ECHO,"Empowering and Connecting Diverse Communities","FRIULI VENEZIA GIULIA STRADE SPA",,876787754,Italy,IT,company,no,129500
+101225575,ECHO,"Empowering and Connecting Diverse Communities","CAFC SPA",,886333718,Italy,IT,company,no,129500
+101225575,ECHO,"Empowering and Connecting Diverse Communities","INSIEL - INFORMATICA PER IL SISTEMA DEGLI ENTI LOCALI S.P.A.",,999792775,Italy,IT,company,no,378787.5
+101225575,ECHO,"Empowering and Connecting Diverse Communities","GASILSKA ZVEZA SLOVENIJE",,893684863,Slovenia,SI,other,no,143375
+101225575,ECHO,"Empowering and Connecting Diverse Communities","OBCINA JESENICE",,884453276,Slovenia,SI,public_body,no,83750
+101225575,ECHO,"Empowering and Connecting Diverse Communities","OBCINA KRANJSKA GORA",,876380645,Slovenia,SI,public_body,no,83750
+101225575,ECHO,"Empowering and Connecting Diverse Communities","ELEKTRO GORENJSKA PODJETJE ZA DISTRIBUCIJO ELEKTRICNE ENERGIJE DD",,996273809,Slovenia,SI,company,no,142625
+101225575,ECHO,"Empowering and Connecting Diverse Communities","TELEKOM SLOVENIJE DD",,957062432,Slovenia,SI,company,no,152425
+101225575,ECHO,"Empowering and Connecting Diverse Communities","SERVICIO ANDALUZ DE SALUD",,998853621,Spain,ES,public_body,no,60200
+101225575,ECHO,"Empowering and Connecting Diverse Communities","DIPUTACION PROVINCIAL DE MALAGA",,948939167,Spain,ES,public_body,no,131850
+101225575,ECHO,"Empowering and Connecting Diverse Communities","AYUNTAMIENTO DE ESTEPONA",,948482879,Spain,ES,public_body,no,97500
+101225575,ECHO,"Empowering and Connecting Diverse Communities","FUNDACION CENTRO ANDALUZ DE INVESTIGACIONES DEL AGUA",,947977218,Spain,ES,other,no,165250
+101225575,ECHO,"Empowering and Connecting Diverse Communities",TIMELEX,,991228063,Belgium,BE,sme,no,221375
+101225575,ECHO,"Empowering and Connecting Diverse Communities","INCITES CONSULTING SA",,894228257,Luxembourg,LU,sme,no,294437.5
+101225575,ECHO,"Empowering and Connecting Diverse Communities","CARR COMMUNICATIONS LIMITED",,998823163,Ireland,IE,sme,no,273875
+101225575,ECHO,"Empowering and Connecting Diverse Communities","FUNDACION PARA LA INVESTIGACION DE MALAGA EN BIOMEDICINA Y SALUD",,998029218,Spain,ES,research_institution,no,92850
+101225575,ECHO,"Empowering and Connecting Diverse Communities","HIDRALIA GESTION INTEGRAL DE AGUAS DE ANDALUCIA SA",,893067458,Spain,ES,company,no,77000
+101225575,ECHO,"Empowering and Connecting Diverse Communities","ECLEXYS SAGL",,998000118,,,sme,no,
+101225575,ECHO,"Empowering and Connecting Diverse Communities","Comando dei Vigili del Fuoco di Trieste",,876885724,Italy,IT,public_body,no,
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","UNIVERSITATEA MARITIMA DIN CONSTANTA",,949667734,Romania,RO,university,yes,442338
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE IN INFORMATICA ICI BUCURESTI RA",,999593537,Romania,RO,research_institution,no,149586
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","""ACADEMIA TEHNICA MILITARA """"FERDINAND I""""""",,949114834,Romania,RO,university,no,94106.5
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,165208
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","CYBER DACIANS SRL",,891044426,Romania,RO,sme,no,125083
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","ASOCIATIA CLUSTERUL DE EXCELENTA IN SECURITATE CIBERNETICA",,883525859,Romania,RO,other,no,77682
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","INNOVX BUSINESS ACCELERATOR SRL",,878442283,Romania,RO,sme,no,99938
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","BIT SENTINEL SECURITY SRL",,911463120,Romania,RO,sme,no,135355
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","CENTRUL EURO-ATLANTIC PENTRU REZILIENTA",,880611494,Romania,RO,research_institution,no,308507.75
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","SAFETECH INNOVATIONS SA",,952426414,Romania,RO,sme,no,113634
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","BEIA CONSULT INTERNATIONAL SRL",,999685687,Romania,RO,company,no,126795
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","ASOCIATIA ROMANA PENTRU ASIGURAREA SECURITATII INFORMATIEI",,911350406,Romania,RO,research_institution,no,98868
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","UNIVERSITATEA NATIONALA DE APARARE CAROL I",,946989661,Romania,RO,university,no,140000.94
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","NIKOLA VAPTSAROV NAVAL ACADEMY",,949662108,Bulgaria,BG,university,no,125618
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","RISKSIGHT OU",,883435164,Estonia,EE,sme,no,54891
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","INFILI TECHNOLOGIES SOCIETE ANONYME",,932053019,Greece,GR,sme,no,101650
+101158784,ECYBRIDGE,"Strengthening Synergies in Defence and Civilian Cy","BALTI KAITSEKOLLEDZ",,943502123,Estonia,EE,university,no,133857
+101127713,EL-SOC,"Enhancing the capacity of the Hellenic Consol","ETHNIKI ARCHI KYVERNOASFALEIAS",,877132007,Greece,GR,public_body,yes,3998590
+101127713,EL-SOC,"Enhancing the capacity of the Hellenic Consol","ODYSSEY CONSULTANTS LTD",,888365480,Cyprus,CY,company,no,280607.5
+101127713,EL-SOC,"Enhancing the capacity of the Hellenic Consol","SPACE HELLAS ANONYMI ETAIREIA SYSTIMATA KAI YPIRESIES TILEPIKOINONIONPLIROFORIKIS ASFALEIAS - IDIOTIKI EPICHEIRISI PAROCHIS YPERISION ASFA",,999778322,Greece,GR,company,no,329827.5
+101127713,EL-SOC,"Enhancing the capacity of the Hellenic Consol","INSTITOUTO TECHNOLOGIAS YPOLOGISTON KAI EKDOSEON DIOFANTOS",,999643783,Greece,GR,research_institution,no,226305
+101127713,EL-SOC,"Enhancing the capacity of the Hellenic Consol","YPOURGEIO PSIFIAKIS DIAKYVERNISIS",,912193239,Greece,GR,public_body,no,
+101120688,EMERALD,"Evidence Management for Continuous Certificat","FUNDACION TECNALIA RESEARCH & INNOVATION",,999604110,Spain,ES,research_institution,yes,738375
+101120688,EMERALD,"Evidence Management for Continuous Certificat","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,859000
+101120688,EMERALD,"Evidence Management for Continuous Certificat","FABASOFT R&D GMBH",,927885220,Austria,AT,company,no,270528.13
+101120688,EMERALD,"Evidence Management for Continuous Certificat","CONSIGLIO NAZIONALE DELLE RICERCHE",,999979500,Italy,IT,research_institution,no,308200
+101120688,EMERALD,"Evidence Management for Continuous Certificat","SOFTWARE COMPETENCE CENTER HAGENBERG GMBH",,999663765,Austria,AT,research_institution,no,573500
+101120688,EMERALD,"Evidence Management for Continuous Certificat","KNOW CENTER RESEARCH GMBH",,997997111,Austria,AT,research_institution,no,478250
+101120688,EMERALD,"Evidence Management for Continuous Certificat","CAIXABANK SA",,941682694,Spain,ES,company,no,144242.87
+101120688,EMERALD,"Evidence Management for Continuous Certificat","IONOS SE",,890193057,Germany,DE,company,no,267925
+101120688,EMERALD,"Evidence Management for Continuous Certificat","CLOUDFERRO SA",,913770362,Poland,PL,sme,no,191240
+101120688,EMERALD,"Evidence Management for Continuous Certificat","OPENNEBULA SYSTEMS SL",,969580476,Spain,ES,company,no,379925
+101120688,EMERALD,"Evidence Management for Continuous Certificat","NIXU OY",,975106469,Finland,FI,company,no,196350
+101120688,EMERALD,"Evidence Management for Continuous Certificat","Fabasoft Research GmbH",,871328982,Austria,AT,company,no,290959.37
+101120688,EMERALD,"Evidence Management for Continuous Certificat","CAIXABANK TECH SL",,875430045,Spain,ES,company,no,37932.13
+101121152,ENACT,"European Network Against Crime and Terrorism","Ministerio da Justica",,983734231,Portugal,PT,public_body,yes,715419.25
+101121152,ENACT,"European Network Against Crime and Terrorism","MINISTERIO DEL INTERIOR",,999827501,Spain,ES,public_body,no,68125
+101121152,ENACT,"European Network Against Crime and Terrorism","SISAMINISTERIO (SM)",,998241357,Finland,FI,public_body,no,103968.75
+101121152,ENACT,"European Network Against Crime and Terrorism","MINISTERE DE L'INTERIEUR",,999823136,France,FR,public_body,no,121875
+101121152,ENACT,"European Network Against Crime and Terrorism","Netherlands Police",,942970272,Netherlands,NL,public_body,no,143575
+101121152,ENACT,"European Network Against Crime and Terrorism","KATHOLIEKE UNIVERSITEIT LEUVEN",,999991334,Belgium,BE,university,no,135000
+101121152,ENACT,"European Network Against Crime and Terrorism","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,no,124687.5
+101121152,ENACT,"European Network Against Crime and Terrorism","INOV INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES INOVACAO",,999620503,Portugal,PT,research_institution,no,121989.88
+101121152,ENACT,"European Network Against Crime and Terrorism","FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",,955552336,Spain,ES,research_institution,no,123778.75
+101121152,ENACT,"European Network Against Crime and Terrorism","EUROPEAN ORGANISATION FOR SECURITY",,998215943,Belgium,BE,company,no,120625
+101121152,ENACT,"European Network Against Crime and Terrorism","SHEFFIELD HALLAM UNIVERSITY",,999842148,,,university,no,
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","EXUS SOFTWARE MONOPROSOPI ETAIRIA PERIORISMENIS EVTHINIS",,916943523,Greece,GR,sme,yes,633750
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,no,400625
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","EIGHT BELLS LTD",,917066131,Cyprus,CY,sme,no,337500
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",,999992401,France,FR,research_institution,no,543906.25
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","TRUST UP SRL",,890574946,Italy,IT,sme,no,511250
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","ARISTOTELIO PANEPISTIMIO THESSALONIKIS",,999895692,Greece,GR,university,no,309687.5
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","DIADIKASIA BUSINESS CONSULTING SYMVOULOI EPICHEIRISEON AE",,983764495,Greece,GR,company,no,376250
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","TILBURG UNIVERSITY- UNIVERSITEIT VAN TILBURG",,999899475,Netherlands,NL,university,no,391782.5
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II",,999976590,Italy,IT,university,no,199062.5
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","SYNETAIRISTIKI TRAPEZA IPEIROU SYN.P.E.",,889263409,Greece,GR,company,no,88250
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","JOHANN WOLFGANG GOETHE-UNIVERSITAET FRANKFURT AM MAIN",,999978724,Germany,DE,university,no,93256.25
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","UNIVERSITAETSMEDIZIN DER JOHANNES GUTENBERG-UNIVERSITAET MAINZ",,994850722,Germany,DE,university,no,99720
+101070670,ENCRYPT,"Privacy-Preserving Cybersecurity","THE UNIVERSITY OF MANCHESTER",,999903840,,,university,no,
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","EVIDEN TECHNOLOGIES SRL",,893414621,Romania,RO,company,yes,566545
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","SYNELIXIS LYSEIS PLIROFORIKIS AUTOMATISMOU & TILEPIKOINONION ANONIMI ETAIRIA",,999668227,Greece,GR,company,no,322787.5
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","SBT POSLOVNE RESITVE DOO",,880396445,Slovenia,SI,company,no,318150
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","EREVNITIKO PANEPISTIMIAKO INSTITOUTO SYSTIMATON EPIKOINONION KAI YPOLOGISTON",,999654356,Greece,GR,research_institution,no,275000
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","INSTITUT ZA KORPORATIVNE VARNOSTNE STUDIJE LJUBLJANA",,929256994,Slovenia,SI,research_institution,no,413750
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","AGENCIJA ZA KOMUNIKACIJSKA OMREZJA IN STORITVE REPUBLIKE SLOVENIJE",,877670939,Slovenia,SI,public_body,no,104000
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","Urad Vlade Republike Slovenije za informacijsko varnost",,889274176,Slovenia,SI,public_body,no,93125
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","TELEKOM SLOVENIJE DD",,957062432,Slovenia,SI,company,no,110775
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","ELES DOO OPERATER KOMBINIRANEGA PRENOSNEGA IN DISTRIBUCIJSKEGA ELEKTROENERGETSKEGA OMREZJA",,998079755,Slovenia,SI,company,no,112875
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,119250
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","MINISTERUL SANATATII",,999831478,Romania,RO,public_body,no,90500
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","DIRECTIA GENERALA DE PROTECTIE INTERNA",,889270393,Romania,RO,public_body,no,106250
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","CLINICA GINECOLOGIE DR.MUNTEAN SRL",,880208653,Romania,RO,sme,no,110162.5
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","REGIONE AUTONOMA FRIULI-VENEZIA GIULIA",,983174347,Italy,IT,public_body,no,141250
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","INSIEL - INFORMATICA PER IL SISTEMA DEGLI ENTI LOCALI S.P.A.",,999792775,Italy,IT,company,no,345625
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","PERIFEREIAKO TAMEIO ANAPTYKSIS ATTIKIS",,887166463,Greece,GR,other,no,117500
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","PERIFEREIAKO TAMEIO ANAPTYXIS PERIF DYTIKIS ELLADOS",,880290715,Greece,GR,other,no,83750
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","ETAIREIA YDREYSEOS KAI APOCHETEFSEOS PROTEYOYSIS ANONIMI ETAIREIA",,957970449,Greece,GR,company,no,116812.5
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti",TIMELEX,,991228063,Belgium,BE,sme,no,244125
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","DIADIKASIA BUSINESS CONSULTING SYMVOULOI EPICHEIRISEON AE",,983764495,Greece,GR,company,no,294437.5
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","CARR COMMUNICATIONS LIMITED",,998823163,Ireland,IE,sme,no,298156.25
+101168007,ENDURANCE,"Strategies and Services for Enhanced Disrupti","EVIDEN GERMANY GMBH",,881726024,Germany,DE,company,no,102812.5
+101158692,ENIAC,"Enhanced NIS2 Implementation And Cooperation","MYNDIGHETEN FOR CIVILT FORSVAR",,973204396,Sweden,SE,public_body,yes,4499134.93
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,yes,555000
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","FUNDACION CENTRO DE TECNOLOGIAS DE INTERACCION VISUAL Y COMUNICACIONES VICOMTECH",,955552336,Spain,ES,research_institution,no,280175
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","CFLW CYBER STRATEGIES BV",,897200628,Netherlands,NL,company,no,223750
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","IKNAIO CRYPTOASSET ANALYTICS GMBH",,888909844,Austria,AT,company,no,261118
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",,999992401,France,FR,research_institution,no,278972
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","BYRON LABS SL",,884700820,Spain,ES,company,no,189750
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","TREE TECHNOLOGY SA",,904959658,Spain,ES,sme,no,301562
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","UNIVERSITE DE LORRAINE",,954831626,France,FR,university,no,303755
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","UNIVERSITY OF LIMERICK",,999809071,Ireland,IE,university,no,266000
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","RADEXPERT CONSULTING & MANAGEMENTS.R.L.",,894634105,Romania,RO,company,no,62500
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","MINISTERE DE L'INTERIEUR",,999823136,France,FR,public_body,no,229000
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","Ministerio da Justica",,983734231,Portugal,PT,public_body,no,104687
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","MINISTERIO DEL INTERIOR",,999827501,Spain,ES,public_body,no,118750
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","INSPECTORATUL GENERAL AL POLITIEI",,933634701,,,public_body,no,67500
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","DIRECTIA GENERALA DE POLITIE A MUNICIPIULUI BUCURESTI",,945256950,Romania,RO,public_body,no,119062
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","CYBERPEACE INSTITUTE",,896401445,,,other,no,
+101168360,ENSEMBLE,"ENhanced AI-baSEd cybercriMe-oriented collaBo","SHEFFIELD HALLAM UNIVERSITY",,999842148,,,university,no,
+101127660,ENSOC,"ENSOC-CROSSBORDER PLATFORM","CENTRO NACIONAL DE INTELIGENCIA",,905633226,Spain,ES,public_body,yes,1316586.85
+101127660,ENSOC,"ENSOC-CROSSBORDER PLATFORM","AGENZIA PER LA CYBERSICUREZZA NAZIONALE",,886338471,Italy,IT,public_body,no,1177000
+101127660,ENSOC,"ENSOC-CROSSBORDER PLATFORM","LUXEMBOURG HOUSE OF CYBERSECURITY",,951805711,Luxembourg,LU,other,no,842625
+101127660,ENSOC,"ENSOC-CROSSBORDER PLATFORM","GABINETE NACIONAL DE SEGURANCA",,970710429,Portugal,PT,public_body,no,150870
+101127660,ENSOC,"ENSOC-CROSSBORDER PLATFORM","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,582615
+101127660,ENSOC,"ENSOC-CROSSBORDER PLATFORM","MINISTERIE VAN JUSTITIE EN VEILIGHEID",,998240969,Netherlands,NL,public_body,no,815261.89
+101127660,ENSOC,"ENSOC-CROSSBORDER PLATFORM","BUNDESMINISTERIUM FUR INNERES",,999826434,Austria,AT,public_body,no,295320
+101128063,EXE-SOC,"EXE Security Operations Centre","EXE, A.S.",,883433806,Slovakia,SK,company,yes,549685.75
+101128063,EXE-SOC,"EXE Security Operations Centre","COMCERT SPOLKA AKCYJNA",,912221660,Poland,PL,company,no,
+101128063,EXE-SOC,"EXE Security Operations Centre","exe, a.s., odstepny zavod",,867764232,Czechia,CZ,company,no,
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","UNIVERSITY OF CYPRUS",,999835843,Cyprus,CY,university,yes,1023000
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",,998802502,Greece,GR,research_institution,no,498125
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","CYBERECOCUL GLOBAL SERVICES LTD",,877940502,Cyprus,CY,company,no,264750
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","CYPRUS ORGANISATION FOR STANDARDISATION",,950633369,Cyprus,CY,company,no,109375
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","ELLAS SAT ANONYMH ETAIREIA YPIRESIES DORYFORIKON SYSTIMATON KAI EPIKOINONION",,953343161,Greece,GR,company,no,350000
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","INTERUNIVERSITAIR MICRO-ELECTRONICA CENTRUM",,999981149,Belgium,BE,research_institution,no,522480
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","KPMG LIMITED",,928378853,Cyprus,CY,company,no,356250
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","MELLANOX TECHNOLOGIES LTD - MLNX",,990560024,,,company,no,562500
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","NXP SEMICONDUCTORS GERMANY GMBH",,996753474,Germany,DE,company,no,531250
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","SEMI EUROPE GMBH",,905107583,Germany,DE,sme,no,497768.75
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","SPINEDGE LTD",,886227309,,,company,no,302500
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","VALEO COMFORT AND DRIVING ASSISTANCE",,918515311,France,FR,company,no,283475
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","VALEO TELEMATIK UND AKUSTIK GMBH",,900641606,Germany,DE,company,no,286000
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","UNIVERSITAET zu LUEBECK",,999857765,Germany,DE,university,no,897245
+101225859,FOCAL,"Post-Quantum Cryptosystem Composition","CSEM CENTRE SUISSE D'ELECTRONIQUE ET DE MICROTECHNIQUE SA - RECHERCHE ET DEVELOPPEMENT",,999958839,,,research_institution,no,
+101158808,HEP-OTSEC,"Hrvatska elektroprivreda d.d. - Operational t","HRVATSKA ELEKTROPRIVREDA DIONICKO DRUSTVO",,928116274,Croatia,HR,company,yes,739905
+101158808,HEP-OTSEC,"Hrvatska elektroprivreda d.d. - Operational t","HEP-PLIN D.O.O. ZA DISTRIBUCIJU IOPSKRBU PLINOM",,878092016,Croatia,HR,company,no,254125
+101158808,HEP-OTSEC,"Hrvatska elektroprivreda d.d. - Operational t","HEP-PROIZVODNJA DOO ZA PROIZVODNJU ELEKTRICNE I TOPLINSKE ENERGIJE",,908041251,Croatia,HR,company,no,254125
+101204086,INSIDER,"Insider Threat Management for Critical Infrastructure Cyber-security: A Three-pa","IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",,999993468,,,university,yes,260347.92
+101204086,INSIDER,"Insider Threat Management for Critical Infrastructure Cyber-security: A Three-pa","UNIVERSITY OF CYPRUS",,999835843,Cyprus,CY,university,no,
+101135877,INSTAR,"International cooperation for digital standar","BLUSPECS SL",,904412578,Spain,ES,company,yes,297824.14
+101135877,INSTAR,"International cooperation for digital standar","TRUST-IT SERVICES SRL",,906664821,Italy,IT,company,no,186468.75
+101135877,INSTAR,"International cooperation for digital standar","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,197790.02
+101135877,INSTAR,"International cooperation for digital standar","FORTISS GMBH",,996290008,Germany,DE,research_institution,no,159125
+101135877,INSTAR,"International cooperation for digital standar","ALLIANCE FOR AI, IOT AND EDGE CONTINUUM INNOVATION IVZW",,890036790,Belgium,BE,other,no,135875
+101135877,INSTAR,"International cooperation for digital standar",TRIALOG,,999617884,France,FR,sme,no,89437.5
+101135877,INSTAR,"International cooperation for digital standar","TECHNISCHE UNIVERSITEIT DELFT",,999977366,Netherlands,NL,university,no,53420
+101135877,INSTAR,"International cooperation for digital standar","""NATIONAL CENTER FOR SCIENTIFIC RESEARCH """"DEMOKRITOS""""""",,999978239,Greece,GR,research_institution,no,133562.5
+101135877,INSTAR,"International cooperation for digital standar","AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",,999584128,Austria,AT,research_institution,no,162093.76
+101135877,INSTAR,"International cooperation for digital standar","COMMPLA SRL",,951678738,Italy,IT,company,no,83000
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","INLECOM COMMERCIAL PATHWAYS COMPANYLIMITED BY GUARANTEE",,893373008,Ireland,IE,research_institution,yes,477125
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","THALES SIX GTS FRANCE SAS",,999971934,France,FR,company,no,390062.75
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","AIRBUS CYBERSECURITY SAS",,952774935,France,FR,company,no,405650
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","SIEMENS SRL",,953556755,Romania,RO,company,no,294437.5
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","AVL LIST GMBH",,999952243,Austria,AT,company,no,302050
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,394967.5
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","SBA RESEARCH GEMEINNUTZIGE GMBH",,952628368,Austria,AT,research_institution,no,323000
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","""NATIONAL CENTER FOR SCIENTIFIC RESEARCH """"DEMOKRITOS""""""",,999978239,Greece,GR,research_institution,no,317000
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","ELLINIKO MESOGEIAKO PANEPISTIMIO",,899132771,Greece,GR,university,no,327500
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","POLYTECHNEIO KRITIS",,924773848,Greece,GR,university,no,342500
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","MONTIMAGE EURL",,999716242,France,FR,sme,no,339675
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","UBITECH LIMITED",,926362126,Cyprus,CY,sme,no,339500
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","AXON LOGIC IDIOTIKI KEFALAIOUXIKI ETAIREIA",,894850318,Greece,GR,company,no,340725
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox",K3Y,,905140563,Bulgaria,BG,sme,no,266000
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","BEYOND SEMICONDUCTOR, RAZISKAVE IN RAZVOJ, D.O.O.",,888443662,Slovenia,SI,sme,no,330099
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","AEGIS IT RESEARCH GMBH",,911867804,Germany,DE,company,no,341775
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","5 YGIONOMIKI PERIFERIA THESSALIAS & STEREAS ELLADAS",,991750020,Greece,GR,public_body,no,112500
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","DIGITAL FOR PLANET-D4P",,897171237,,,other,no,
+101168438,INTACT,"IoT-to-Cloud Cybersecurity Toolbox","UNIVERSITY OF LANCASTER",,999840984,,,university,no,
+101249724,"IQ Defence","Humans as Intelligent Shields against Cyber Threat","SVEUCILISTE ALGEBRA BERNAYS",,879465051,Croatia,HR,university,yes,1400630
+101249724,"IQ Defence","Humans as Intelligent Shields against Cyber Threat","MILLENIUM PROMOCIJA drustvo s ogranicenom odgovornoscu za odnose s javnoscu, turisticka agencija",,914660143,Croatia,HR,company,no,636650
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools",TRIALOG,,999617884,France,FR,sme,yes,423281.25
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","ATOS IT SOLUTIONS AND SERVICES IBERIA SL",,952979120,Spain,ES,company,no,370650
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",,999584128,Austria,AT,research_institution,no,378548.45
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","TECHNISCHE UNIVERSITAET GRAZ",,999977948,Austria,AT,university,no,365812.5
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","UNIVERSIDAD DE MURCIA",,999844282,Spain,ES,university,no,322081.25
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","INTERNATIONAL DATA SPACES EV",,919489191,Germany,DE,research_institution,no,305000
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","UNIVERSIDAD DE SEVILLA",,999862518,Spain,ES,university,no,284625
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","UNIVERSITEIT VAN AMSTERDAM",,999985708,Netherlands,NL,university,no,311500
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","FONDAZIONE BRUNO KESSLER",,999625450,Italy,IT,research_institution,no,213750
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","NEC LABORATORIES EUROPE GMBH",,910561893,Germany,DE,company,no,380093.36
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","IDRYMA TECHNOLOGIAS KAI EREVNAS",,999995893,Greece,GR,research_institution,no,316875
+101168311,LICORICE,"Self-Sovereign Identity & Privacy Tools","GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",,985034419,Greece,GR,sme,no,326812.5
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","CONSIGLIO NAZIONALE DELLE RICERCHE",,999979500,Italy,IT,research_institution,yes,662500
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","SPACE HELLAS ANONYMI ETAIREIA SYSTIMATA KAI YPIRESIES TILEPIKOINONIONPLIROFORIKIS ASFALEIAS - IDIOTIKI EPICHEIRISI PAROCHIS YPERISION ASFA",,999778322,Greece,GR,company,no,510562.5
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","ONE SOURCE CONSULTORIA INFORMATICA LDA",,968818347,Portugal,PT,sme,no,385787.5
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","STELAR SECURITY TECHNOLOGY LAW RESEARCH UG (HAFTUNGSBESCHRANKT) GMBH",,952468124,Germany,DE,research_institution,no,583000
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","LOGSTAIL SINGLE MEMBER PRIVATECOMPANY",,890401316,Greece,GR,sme,no,341250
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","POLITECNICO DI TORINO",,999977754,Italy,IT,university,no,492500
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA PANSTWOWY INSTYTUT BADAWCZY",,999918681,Poland,PL,research_institution,no,370000
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",,999584128,Austria,AT,research_institution,no,806550
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","SPHYNX ANALYTICS LIMITED",,898261614,Cyprus,CY,company,no,357000
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","Plaixus Limited",,886630732,Cyprus,CY,sme,no,271337.5
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","GIOUMPITEK MELETI SCHEDIASMOS YLOPOIISI KAI POLISI ERGON PLIROFORIKIS ETAIREIA PERIORISMENIS EFTHYNIS",,985034419,Greece,GR,sme,no,404250
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","WOBCOM GMBH WOLFSBURG FUR TELEKOMMUNIKATION UND DIENSTLEISTUNGEN",,905571340,Germany,DE,company,no,297500
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","MINDICITY S.R.L. SOCIETA BENEFIT",,880298378,Italy,IT,company,no,278250
+101168144,MIRANDA,"Cybersecurity Digital Twin for Supply Chains","DIMOS ATHINAION EPICHEIRISI MICHANOGRAFISIS",,991350089,Greece,GR,company,no,230125
+101195086,N4CY2,"Advancing the NCC-CY: The Next Chapter of the Nati","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,yes,1065670.25
+101195086,N4CY2,"Advancing the NCC-CY: The Next Chapter of the Nati","IDRYMA EREVNAS KAI KAINOTOMIAS",,999946035,Cyprus,CY,other,no,2772674.95
+101195086,N4CY2,"Advancing the NCC-CY: The Next Chapter of the Nati","YFYPOURGEIO EREVNAS, KAINOTOMIAS KAI PSIFIAKIS POLITIKIS",,894749632,Cyprus,CY,public_body,no,
+101249704,NBCC,"Nordic-Baltic Cyber Hub","STYRELSEN FOR SAMFUNDSSIKKERHED (SAMSIK)",,889751804,Denmark,DK,public_body,yes,670400.48
+101249704,NBCC,"Nordic-Baltic Cyber Hub","NORWEGIAN NATIONAL SECURITY AUTHORITY (NSM)",,893052811,,,public_body,no,135676
+101249704,NBCC,"Nordic-Baltic Cyber Hub","RIIGI INFOSUSTEEMI AMET",,953382834,Estonia,EE,public_body,no,135676
+101249704,NBCC,"Nordic-Baltic Cyber Hub","LIIKENNE- JA VIESTINTAVIRASTO",,900306956,Finland,FI,public_body,no,135676
+101249704,NBCC,"Nordic-Baltic Cyber Hub",Utanrikisraduneytid,,869974086,,,public_body,no,135534.23
+101249704,NBCC,"Nordic-Baltic Cyber Hub","NACIONALINIS KIBERNETINIO SAUGUMO CENTRAS PRIE KRASTO APSAUGOS MINISTERIJOS",,881704102,Lithuania,LT,public_body,no,135676
+101249704,NBCC,"Nordic-Baltic Cyber Hub","LATVIJAS UNIVERSITATES MATEMATIKAS UN INFORMATIKAS INSTITUTS",,999645723,Latvia,LV,research_institution,no,135676
+101135632,NexusForum.EU,"Consolidating Research and Policy along the C","RISE RESEARCH INSTITUTES OF SWEDEN AB",,999613422,Sweden,SE,research_institution,yes,704375
+101135632,NexusForum.EU,"Consolidating Research and Policy along the C","OPENNEBULA SYSTEMS SL",,969580476,Spain,ES,company,no,468750
+101135632,NexusForum.EU,"Consolidating Research and Policy along the C","FUNDACION TECNALIA RESEARCH & INNOVATION",,999604110,Spain,ES,research_institution,no,445750
+101135632,NexusForum.EU,"Consolidating Research and Policy along the C","F6S NETWORK IRELAND LIMITED",,900885658,Ireland,IE,sme,no,380625
+101135632,NexusForum.EU,"Consolidating Research and Policy along the C","MARTEL GMBH",,999695387,,,company,no,
+101135632,NexusForum.EU,"Consolidating Research and Policy along the C","MEIJI UNIVERSITY EDUCATIONAL FOUNDATION",,973750409,,,university,no,
+101135632,NexusForum.EU,"Consolidating Research and Policy along the C","YONSEI UNIVERSITY",,998969827,,,university,no,
+101145872,NITRO,"Connected 5G-IoT Cyber Range for Training and","UNIVERSITY OF PIRAEUS RESEARCH CENTER",,999586941,Greece,GR,university,yes,231387.5
+101145872,NITRO,"Connected 5G-IoT Cyber Range for Training and","UNISYSTEMS LUXEMBOURG SARL",,899075056,Luxembourg,LU,company,no,127544
+101145872,NITRO,"Connected 5G-IoT Cyber Range for Training and","IONIAN UNIVERSITY",,998243394,Greece,GR,university,no,231120
+101145872,NITRO,"Connected 5G-IoT Cyber Range for Training and","ELLINIKO INSTITOUTO KYVERNOASFALEIAS ASTIKI MI KERDOSKOPIKI ETAIREIA",,881432405,Greece,GR,other,no,108605
+101145872,NITRO,"Connected 5G-IoT Cyber Range for Training and","UBITECH LIMITED",,926362126,Cyprus,CY,sme,no,207446.25
+101145872,NITRO,"Connected 5G-IoT Cyber Range for Training and","UNI SYSTEMS SYSTIMATA PLIROFORIKIS MONOPROSOPI ANONYMI EMPORIKI ETAIRIA",,983611914,Greece,GR,company,no,94374
+101145867,OT_EarWarnSys,"EARLY WARNING SYSTEM FOR CRITICAL INFRASTRUCT","DISRUPTIVE CONSULTING ITALIA S.R.L.",,881482845,Italy,IT,sme,yes,1850703.83
+101070586,PHOENI2X,"Cyber Resilience Framework","PANEPISTIMIO PATRON",,999894528,Greece,GR,university,yes,447500
+101070586,PHOENI2X,"Cyber Resilience Framework","SPHYNX ANALYTICS LIMITED",,898261614,Cyprus,CY,company,no,484375
+101070586,PHOENI2X,"Cyber Resilience Framework","UNIVERSITAT POLITECNICA DE CATALUNYA",,999976202,Spain,ES,university,no,302625
+101070586,PHOENI2X,"Cyber Resilience Framework","ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE",,999792581,Greece,GR,company,no,302500
+101070586,PHOENI2X,"Cyber Resilience Framework","Ferrocarrils de la Generalitat de Catalunya",,967388179,Spain,ES,public_body,no,326875
+101070586,PHOENI2X,"Cyber Resilience Framework","DIMOSIA EPICHEIRISI ILEKTRISMOU ANONYMI ETAIREIA",,999938954,Greece,GR,company,no,290000
+101070586,PHOENI2X,"Cyber Resilience Framework","WORLDSENSING SL",,993322002,Spain,ES,company,no,302125
+101070586,PHOENI2X,"Cyber Resilience Framework","AEGIS IT RESEARCH GMBH",,911867804,Germany,DE,company,no,330375
+101070586,PHOENI2X,"Cyber Resilience Framework","SOCIAL ENGINEERING ACADEMY (SEA) GMBH",,911274067,Germany,DE,company,no,290375
+101070586,PHOENI2X,"Cyber Resilience Framework","EUNOMIA LIMITED",,893784579,Ireland,IE,company,no,202500
+101070586,PHOENI2X,"Cyber Resilience Framework","ATOS IT SOLUTIONS AND SERVICES IBERIA SL",,952979120,Spain,ES,company,no,347500
+101070586,PHOENI2X,"Cyber Resilience Framework","APIROPLUS SOLUTIONS LTD",,897731121,Cyprus,CY,company,no,165625
+101070586,PHOENI2X,"Cyber Resilience Framework","ATHANASIOS STATHOPOULOS AND CO OE",,912490253,Greece,GR,company,no,404750
+101070586,PHOENI2X,"Cyber Resilience Framework","UNIVERSITETET I OSLO",,999975814,,,university,no,340000
+101070586,PHOENI2X,"Cyber Resilience Framework","YPOURGEIO PSIFIAKIS DIAKYVERNISIS",,912193239,Greece,GR,public_body,no,38420.61
+101070586,PHOENI2X,"Cyber Resilience Framework","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,no,141125
+101070586,PHOENI2X,"Cyber Resilience Framework","ETHNIKI ARCHI KYVERNOASFALEIAS",,877132007,Greece,GR,public_body,no,103329.39
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","UNIVERSIDAD DE MURCIA",,999844282,Spain,ES,university,yes,700000
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",,999584128,Austria,AT,research_institution,no,483250
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","ATOS IT SOLUTIONS AND SERVICES IBERIA SL",,952979120,Spain,ES,company,no,407812.5
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","EVIDEN GERMANY GMBH",,881726024,Germany,DE,company,no,353750
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","TECHNISCHE UNIVERSITAET GRAZ",,999977948,Austria,AT,university,no,503750
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","ATHENS UNIVERSITY OF ECONOMICS AND BUSINESS - RESEARCH CENTER",,999896856,Greece,GR,university,no,395625
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","ODIN SOLUTIONS SOCIEDAD LIMITADA",,934796858,Spain,ES,company,no,390875
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","STIFTUNG SECURE INFORMATION AND COMMUNICATION TECHNOLOGIES",,968450329,Austria,AT,research_institution,no,383750
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","CYLO LABS LTD",,876879031,,,sme,no,372562.5
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","STOWARZYSZENIE POLSKA PLATFORMA BEZPIECZENSTWA WEWNETRZNEGO",,956594116,Poland,PL,research_institution,no,401875
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","4CF SP ZOO",,942953588,Poland,PL,company,no,379375
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","QUANTUM BLOCKCHAINS SP ZOO",,887022515,Poland,PL,company,no,409430
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities",TIMELEX,,991228063,Belgium,BE,sme,no,321000
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","DYNAMIS AE GENIKON ASFALEION",,904421696,Greece,GR,company,no,311250
+101225797,POSEIDON,"Post-Quantum Secure Digital Identities","cv cryptovision Gesellschaft mit beschränkter Haftung*cv cryptovision Limited Liability Company",,875749951,Germany,DE,company,no,185250
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","VYSOKE UCENI TECHNICKE V BRNE",,999873091,Czechia,CZ,university,yes,1100000
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","CYBERNETICA AS",,999754363,Estonia,EE,sme,no,498750
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","IKERLAN S. COOP",,999581315,Spain,ES,research_institution,no,550016.25
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","Masarykova univerzita",,999880657,Czechia,CZ,university,no,346500
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","NARODNY BEZPECNOSTNY URAD",,963224454,Slovakia,SK,public_body,no,200500
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","AIZSARDZIBAS MINISTRIJA",,885602144,Latvia,LV,public_body,no,237750
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU",,999977851,,,university,no,546437.5
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","NARODNI URAD PRO KYBERNETICKOU A INFORMACNI BEZPECNOST - NUKIB",,907198418,Czechia,CZ,research_institution,no,197000
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","RED HAT CZECH S R O",,897561953,Czechia,CZ,company,no,147312.5
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","RIIGI INFOSUSTEEMI AMET",,953382834,Estonia,EE,public_body,no,413125
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","STICHTING RADBOUD UNIVERSITEIT",,999992110,Netherlands,NL,university,no,531686.25
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","SABIEDRIBA AR IEROBEZOTU ATBILDIBU TET",,887962736,Latvia,LV,company,no,552500
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","RED HAT FRANCE",,893160869,France,FR,company,no,278562.5
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","RED HAT LIMITED",,999608863,Ireland,IE,company,no,116812.5
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","LEGIC Identsystems AG",,875764307,,,company,no,
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","NORWEGIAN NATIONAL SECURITY AUTHORITY (NSM)",,893052811,,,public_body,no,
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","Staff of the NSDC of Ukraine",,875537521,,,public_body,no,
+101225691,QARC,"Quantum-Resistant Cryptography in Practice","KYIV AVIATION INSTITUTE STATE UNIVERSITY STATE NON COMMERCIAL ENTERPRISE",,875343327,,,university,no,
+101168490,RECITALS,"Secure Digital Identity Infrastructure","ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",,999643007,Greece,GR,university,yes,733125
+101168490,RECITALS,"Secure Digital Identity Infrastructure","DIMOSIA EPICHEIRISI ILEKTRISMOU ANONYMI ETAIREIA",,999938954,Greece,GR,company,no,515593.75
+101168490,RECITALS,"Secure Digital Identity Infrastructure","TECHNISCHE UNIVERSITEIT DELFT",,999977366,Netherlands,NL,university,no,453750
+101168490,RECITALS,"Secure Digital Identity Infrastructure","UNIVERSITE PARIS CITE",,897691060,France,FR,university,no,296250
+101168490,RECITALS,"Secure Digital Identity Infrastructure","PDM E FC-PROJECTO DESENVOLVIMENTO MANUTENCAO FORMACAO E CONSULTADORIA S.A.",,999742335,Portugal,PT,sme,no,389375
+101168490,RECITALS,"Secure Digital Identity Infrastructure","UNIDADE LOCAL DE SAUDE DO ALENTEJO CENTRAL EPE",,907543544,Portugal,PT,public_body,no,220625
+101168490,RECITALS,"Secure Digital Identity Infrastructure","ORANGE ROMANIA SA",,954892445,Romania,RO,company,no,310800
+101168490,RECITALS,"Secure Digital Identity Infrastructure","GOTTFRIED WILHELM LEIBNIZ UNIVERSITAET HANNOVER",,999981828,Germany,DE,university,no,409750
+101168490,RECITALS,"Secure Digital Identity Infrastructure","DUBLIN CITY UNIVERSITY",,999892588,Ireland,IE,university,no,357125
+101168490,RECITALS,"Secure Digital Identity Infrastructure","CENTER FOR TECHNOLOGY RESEARCH ANDINNOVATION (CETRI) LTD",,995985622,Cyprus,CY,company,no,248937.5
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","Technological University of the Shannon: Midlands Midwest",,889135563,Ireland,IE,university,yes,1402250
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","GMV SOLUCIONES GLOBALES INTERNET SAU",,997512402,Spain,ES,company,no,323312.5
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","Masarykova univerzita",,999880657,Czechia,CZ,university,no,371250
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","SILENT PUSH LIMITED",,893713963,Ireland,IE,company,no,419125
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","F6S NETWORK IRELAND LIMITED",,900885658,Ireland,IE,sme,no,243250
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","JOANNEUM RESEARCH FORSCHUNGSGESELLSCHAFT MBH",,999981537,Austria,AT,research_institution,no,595250
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","UNIVERSIDAD DE MURCIA",,999844282,Spain,ES,university,no,423437.5
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","JYVASKYLAN AMMATTIKORKEAKOULU OY",,996682955,Finland,FI,university,no,470687.5
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","ALIAS ROBOTICS S.L.",,910202702,Spain,ES,company,no,260750
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","ALGOWATT SPA",,912548647,Italy,IT,company,no,83125
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","REGION DE MURCIA",,997703492,Spain,ES,public_body,no,22000
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","KENTRO MELETON ASFALEIAS",,999827307,Greece,GR,research_institution,no,443125
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","MONTIMAGE EURL",,999716242,France,FR,sme,no,246750
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","TINEXTA INFOCERT SPA",,990330037,Italy,IT,company,no,154875
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","FUNDACION INTEGRA",,896002484,Spain,ES,research_institution,no,245000
+101119681,ResilMesh,"ResilMesh: Situation Aware enabled Cyber Res","ROYAL HOLLOWAY AND BEDFORD NEW COLLEGE",,999861451,,,university,no,
+101158662,SafebyRaiffeisen,"Safe Cyber Experience by Raiffeisenbank","RAIFFEISENBANK AS",,880829938,Czechia,CZ,company,yes,2576129
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","UNIVERSITA DEGLI STUDI DI TRENTO",,999841954,Italy,IT,university,yes,625655.15
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","SAP SE",,999911212,Germany,DE,company,no,344013.6
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","TECHNISCHE UNIVERSITAT HAMBURG",,999838753,Germany,DE,university,no,421875
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","AIRBUS OPERATIONS GMBH",,999964756,Germany,DE,company,no,400625
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","UNIVERSITA DEGLI STUDI DI CAGLIARI",,999841663,Italy,IT,university,no,212500
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","THALES SIX GTS FRANCE SAS",,999971934,France,FR,company,no,364368.75
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","FRONTENDART SZOFTVER KFT",,999615362,Hungary,HU,company,no,498000
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","PLURIBUS ONE SRL",,921822526,Italy,IT,company,no,287500
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","CEFRIEL SOCIETA CONSORTILE A RESPONSABILITA LIMITATA SOCIETA BENEFIT",,999647178,Italy,IT,research_institution,no,207750
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","STICHTING VU",,954530344,Netherlands,NL,university,no,414500
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems",OPPIDA,,919758172,France,FR,company,no,362500
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","FONDATION INRIA",,889291636,France,FR,other,no,143750
+101120393,Sec4AI4Sec,"Cybersecurity for AI-Augmented Systems","UNIVERSITA DELLA SVIZZERA ITALIANA",,999585874,,,university,no,
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","DIMOSIA EPICHEIRISI ILEKTRISMOU ANONYMI ETAIREIA",,999938954,Greece,GR,company,yes,293447.5
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","SPHYNX HELLAS ANONYMI ETAIREIA",,883514607,Greece,GR,sme,no,686137.5
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","PANEPISTIMIAKO GENIKO NOSOKOMEIO IRAKLEIOU",,950987516,Greece,GR,public_body,no,123157
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","POLYTECHNEIO KRITIS",,924773848,Greece,GR,university,no,
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","ORGANISMOS TILEPIKOINONION TIS ELLADOS OTE AE",,999792581,Greece,GR,company,no,138565
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","YPOURGEIO PSIFIAKIS DIAKYVERNISIS",,912193239,Greece,GR,public_body,no,
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","ZELUS IKE",,897996610,Greece,GR,sme,no,184575
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","YPOURGEIO ETHNIKIS AMYNAS",,999611385,Greece,GR,public_body,no,79180
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,no,251492.8
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","ANOIKTO PANEPISTIMIO KYPROU (OPEN UNIVERSITY OF CYPRUS)",,989697985,Cyprus,CY,university,no,244281
+101128049,SecAwarenessTruss,"A Dynamic Training programme based on Cyber-R","ETHNIKI ARCHI KYVERNOASFALEIAS",,877132007,Greece,GR,public_body,no,37450
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","AGENZIA PER LA CYBERSICUREZZA NAZIONALE",,886338471,Italy,IT,public_body,yes,702562
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA PANSTWOWY INSTYTUT BADAWCZY",,999918681,Poland,PL,research_institution,no,408633
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","SME INSTITUTO NACIONAL DE CIBERSEGURIDAD DE ESPANA MP SA",,987077918,Spain,ES,company,no,125832
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","CENTRE POUR LA CYBERSÉCURITÉ BELGIQUE",,897606864,Belgium,BE,public_body,no,670462
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","LUXEMBOURG HOUSE OF CYBERSECURITY",,951805711,Luxembourg,LU,other,no,552334
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","ASSOCIAZIONE CYBER 4.0",,898709172,Italy,IT,other,no,18034422
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","AUTORITATEA PENTRU DIGITALIZAREA ROMANIEI",,892245868,Romania,RO,public_body,no,400822
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","INDUSTRIE 4.0 OSTERREICH - DIE PLATTFORM FUR INTELLIGENTE PRODUKTION",,900040594,Austria,AT,other,no,424201.5
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","IDEA-RE SRL",,889067372,Italy,IT,sme,no,404032
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","THI TECHHOUSE GMBH",,887354255,Austria,AT,company,no,33223.5
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","VIRTUAL VEHICLE RESEARCH GMBH",,997885852,Austria,AT,research_institution,no,33223.5
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","SALZBURG RESEARCH FORSCHUNGSGESELLSCHAFT M.B.H.",,999594119,Austria,AT,research_institution,no,33223.5
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","PROFACTOR GMBH",,999610221,Austria,AT,research_institution,no,54302.5
+101190325,SECURE,"SECURE - Strengthening EU SMEs Cyber Resilience","TECHNISCHE UNIVERSITAET WIEN",,999979888,Austria,AT,university,no,43763
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","TARTU ULIKOOL",,999895013,Estonia,EE,university,yes,575387.5
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","Masarykova univerzita",,999880657,Czechia,CZ,university,no,311180
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","RIIGI INFOSUSTEEMI AMET",,953382834,Estonia,EE,public_body,no,252812.5
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","CYBERNETICA AS",,999754363,Estonia,EE,sme,no,304931.25
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","KAUNO TECHNOLOGIJOS UNIVERSITETAS",,999844961,Lithuania,LT,university,no,279070
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","UAB IT Solutions",,876291890,Lithuania,LT,sme,no,170906.25
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","RIJKSUNIVERSITEIT GRONINGEN",,999989782,Netherlands,NL,university,no,354625
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","STICHTING RADBOUD UNIVERSITEIT",,999992110,Netherlands,NL,university,no,333871.25
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","KEYSIGHT TECHNOLOGIES NETHERLANDS RISCURE BV",,951370957,Netherlands,NL,company,no,176687.5
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","VASYL STEFANYK CARPATHIAN NATIONAL UNIVERSITY",,947454679,,,university,no,126282.5
+101217315,SECURE-NET,"Cybersecurity Ecosystem Development","JOINT-STOCK COMPANY PRYKARPATTYAOBLENERGO",,893278724,,,company,no,113671.25
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","EURESCOM-EUROPEAN INSTITUTE FOR RESEARCH AND STRATEGIC STUDIES IN TELECOMMUNICATIONS GMBH",,999912279,Germany,DE,company,yes,663471
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","6G SMART NETWORKS AND SERVICES INDUSTRY ASSOCIATION",,935632513,Belgium,BE,other,no,429690
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","NOKIA SOLUTIONS AND NETWORKS GMBH AND CO KG",,999940603,Germany,DE,company,no,174487
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","ERICSSON AB",,999910921,Sweden,SE,company,no,173250
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","THALES SIX GTS FRANCE SAS",,999971934,France,FR,company,no,
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","TELENOR ASA",,999910630,,,company,no,102897
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","TELECOM ITALIA SPA O TIM SPA",,999908496,Italy,IT,company,no,135000
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","SAS IDATE",,887114665,France,FR,company,no,275625
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","NOKIA NETWORKS FRANCE",,950760051,France,FR,company,no,145935
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","SOUTH EAST TECHNOLOGICAL UNIVERSITY",,886107126,Ireland,IE,university,no,132500
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","MTU AUSTRALO ALPHA LAB",,889769167,Estonia,EE,other,no,115000
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","TRUST-IT SERVICES SRL",,906664821,Italy,IT,company,no,138375
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","INSTITUTO DE TELECOMUNICACOES",,999580248,Portugal,PT,research_institution,no,98875
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",,999988909,Netherlands,NL,research_institution,no,168000
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","CENTRE TECNOLOGIC DE TELECOMUNICACIONS DE CATALUNYA",,999638739,Spain,ES,research_institution,no,199210
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","""SABIEDRIBA AR IEROBEZOTU ATBILDIBU """"ELEKRONISKIE SAKARI""""""",,898187700,Latvia,LV,company,no,182250
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","INOV INSTITUTO DE ENGENHARIA DE SISTEMAS E COMPUTADORES INOVACAO",,999620503,Portugal,PT,research_institution,no,85000
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","OULUN YLIOPISTO",,999844670,Finland,FI,university,no,68750
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","POLITECHNIKA POZNANSKA",,999659691,Poland,PL,university,no,140625
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","UNIVERSIDAD DE MALAGA",,999898311,Spain,ES,university,no,104690
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","TELEFONICA INNOVACION DIGITAL SL",,917790915,Spain,ES,company,no,178087
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM",THALES,,999751938,France,FR,company,no,128812
+101192000,"SNS CO-OP","SNS COLLABORATIVE OPERATIONS AND OUTPUT OPTIM","COMMPLA SRL",,951678738,Italy,IT,company,no,69750
+101127847,SOCCER,"Security Operation Centres Capacity building for E","SIGNAL IDUNA LEBENSVERSICHERUNG A.G.",,885854635,Germany,DE,company,yes,644915
+101127847,SOCCER,"Security Operation Centres Capacity building for E","TROUT SOFTWARE",,884314663,France,FR,sme,no,95368
+101127847,SOCCER,"Security Operation Centres Capacity building for E","ORANGE ROMANIA SA",,954892445,Romania,RO,company,no,310567
+101127847,SOCCER,"Security Operation Centres Capacity building for E","HUN-REN SZAMITASTECHNIKAI ES AUTOMATIZALASI KUTATOINTEZET",,999651252,Hungary,HU,research_institution,no,252252
+101127847,SOCCER,"Security Operation Centres Capacity building for E","TROUT SOFTWARE LIMITED",,878464690,Ireland,IE,sme,no,324018
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE",,999844573,Poland,PL,university,yes,2501082.2
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","MYKOLO ROMERIO UNIVERSITETAS",,996876082,Lithuania,LT,university,no,168300.3
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","CESNET ZAJMOVE SDRUZENI PRAVNICKYCH OSOB",,999589463,Czechia,CZ,research_institution,no,249417
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","UNIWERSYTET ROLNICZY IM. HUGONA KOLLATAJA W KRAKOWIE",,994193935,Poland,PL,university,no,267868.62
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","UNIVERZITA TOMASE BATI VE ZLINE",,999880172,Czechia,CZ,university,no,140512.4
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","Masarykova univerzita",,999880657,Czechia,CZ,university,no,795224
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","UNIWERSYTET JAGIELLONSKI",,999642716,Poland,PL,university,no,355765.37
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","TARTU ULIKOOL",,999895013,Estonia,EE,university,no,298784.13
+101128073,SOCCER,"Developing and deploying SOC capabilities for the","UNIVERZITA PAVLA JOZEFA SAFARIKA V KOSICIACH",,999885992,Slovakia,SK,university,no,304843
+101213612,"StandICT.eu 2029","ICT Standardisation Observatory and Support F","TRUST-IT SERVICES SRL",,906664821,Italy,IT,company,yes,4823035.62
+101213612,"StandICT.eu 2029","ICT Standardisation Observatory and Support F","DUBLIN CITY UNIVERSITY",,999892588,Ireland,IE,university,no,174651.88
+101213612,"StandICT.eu 2029","ICT Standardisation Observatory and Support F","EUROPEAN DIGITAL SME ALLIANCE",,991656609,Belgium,BE,other,no,352500
+101213612,"StandICT.eu 2029","ICT Standardisation Observatory and Support F","OPENFORUM EUROPE",,897246412,Belgium,BE,other,no,135250
+101213612,"StandICT.eu 2029","ICT Standardisation Observatory and Support F","AUSTRALO INTERINNOV MARKETING LAB SL",,895851067,Spain,ES,sme,no,146250
+101213612,"StandICT.eu 2029","ICT Standardisation Observatory and Support F","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,234375
+101213612,"StandICT.eu 2029","ICT Standardisation Observatory and Support F","COMMPLA SRL",,951678738,Italy,IT,company,no,133937.5
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","CONSIGLIO NAZIONALE DELLE RICERCHE",,999979500,Italy,IT,research_institution,yes,1324750
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","FRAMATOME GMBH",,910770540,Germany,DE,company,no,380625
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","DIINEKES S.I. MONOPROSOPI IDIOTIKI KEFALAIOUCHIKI ETAIREIA",,884438338,Greece,GR,sme,no,487375
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","CYBERALYTICS LIMITED",,886488239,Cyprus,CY,sme,no,487375
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","KARAVIAS MESITES ASFALISEON KAI SYMVOULOI ASFALISEON ANONYMI ETAIRIA - KARAVIA INSURANCE BROKERS AND INSURANCE ADVISORS SOCIETE ANONYME",,905347561,Greece,GR,sme,no,262500
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","INSURETICS LIMITED",,886503371,Cyprus,CY,sme,no,636125
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","UNIVERSIDAD DE MALAGA",,999898311,Spain,ES,university,no,308500
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","AEGIS IT RESEARCH GMBH",,911867804,Germany,DE,company,no,453600
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","ATHANASIOS STATHOPOULOS AND CO OE",,912490253,Greece,GR,company,no,549500
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","EUNOMIA LIMITED",,893784579,Ireland,IE,company,no,251125
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","MAGGIOLI SPA",,996621457,Italy,IT,company,no,245875
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,no,261250
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","UNIVERSITETET I OSLO",,999975814,,,university,no,316250
+101120853,SYNAPSE,"An Integrated Cyber Security Risk & Resilienc","SPHYNX TECHNOLOGY SOLUTIONS AG",,881338703,,,company,no,
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","NOKIA SOLUTIONS AND NETWORKS GMBH AND CO KG",,999940603,Germany,DE,company,yes,1004443.75
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","SINTEF AS",,910945140,,,research_institution,no,757301.25
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","MUNSTER TECHNOLOGICAL UNIVERSITY",,892106673,Ireland,IE,university,no,515625
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","DATA ANALYTICS FOR INDUSTRIES 4 0 SL",,882395518,Spain,ES,company,no,451875
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","ATHENS TECHNOLOGY CENTER ANONYMI VIOMICHANIKI EMPORIKI KAI TECHNIKI ETAIREIA EFARMOGON YPSILIS TECHNOLOGIAS",,999751744,Greece,GR,sme,no,418750
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","KATHOLIEKE UNIVERSITEIT LEUVEN",,999991334,Belgium,BE,university,no,317700
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","TELECOM ITALIA SPA O TIM SPA",,999908496,Italy,IT,company,no,320625
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","WORLD RESEARCH CENTER OF VORTEX ENERGY",,907480009,,,research_institution,no,193000
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","ANTONOV Company",,997261851,,,company,no,98750
+101119747,TELEMETRY,"Trustworthy mEthodologies, open knowLedgE & autoMated tools for sEcurity Testing","UNIVERSITY OF SOUTHAMPTON",,999975329,,,university,no,
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","LUXEMBOURG INSTITUTE OF SCIENCE AND TECHNOLOGY",,934320200,Luxembourg,LU,research_institution,yes,1084682.28
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","FONDAZIONE ISTITUTO SUI TRASPORTI E LA LOGISTICA",,998928990,Italy,IT,research_institution,no,395812.5
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","FUNDACION DE LA COMUNIDAD VALENCIANA PARA LA INVESTIGACION, PROMOCION Y ESTUDIOS COMERCIALES DE VALENCIAPORT",,998709188,Spain,ES,research_institution,no,270625
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","FUNDACION ZARAGOZA LOGISTICS CENTER",,999608960,Spain,ES,university,no,260668.75
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","NETCOMPANY S.A.",,999702371,Luxembourg,LU,company,no,452323.11
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","EUROPEAN NETWORK OF LOGISTICS COMPETENCE CENTRES",,889626480,Belgium,BE,other,no,297937.5
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","UNIVERSITE DU LUXEMBOURG",,999878620,Luxembourg,LU,university,no,64062.5
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","LUXEMBOURG HOUSE OF CYBERSECURITY",,951805711,Luxembourg,LU,other,no,105546.89
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","INTERPORTO BOLOGNA SPA",,996755026,Italy,IT,company,no,272300
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","GRUBER LOGISTICS S.P.A.",,894512370,Italy,IT,company,no,119962.5
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","DBA SPA",,893998076,Italy,IT,company,no,108500
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","CARGOLUX AIRLINES INTERNATIONAL SA",,894764667,Luxembourg,LU,company,no,245525
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","COSCO SHIPPING PORTS (SPAIN) TERMINALS SLU",,940218382,Spain,ES,company,no,220150
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","INLECOM COMMERCIAL PATHWAYS COMPANYLIMITED BY GUARANTEE",,893373008,Ireland,IE,research_institution,no,220912.5
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","HAUT-COMMISSARIAT À LA PROTECTION NATIONALE",,936978291,Luxembourg,LU,public_body,no,4500
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","INSTITUT LUXEMBOURGEOIS DE REGULATION",,897575533,Luxembourg,LU,public_body,no,26375
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","MINISTERIO DEL INTERIOR",,999827501,Spain,ES,public_body,no,41750
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","MAHART CONTAINER CENTER SZOLGALTATO KFT",,892056039,Hungary,HU,company,no,70437.51
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","EGNATIA ODOS AE",,998770880,Greece,GR,company,no,52438.75
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","CSP LOGITREN, SA",,880027457,Spain,ES,company,no,16668.75
+101168023,TRANSCEND,"Transport resilience against Cyber and Non-Cy","CSP IBERIAN VALENCIA TERMINAL SAU",,929905439,Spain,ES,company,no,47775
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","NATIONAL STANDARDS AUTHORITY OF IRELAND",,890274440,Ireland,IE,public_body,yes,319190.1
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","RED ALERT LABS",,913019776,France,FR,sme,no,311503.75
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","KYPRIAKI ETAIREIA PISTOPOIISIS LIMITED",,941587925,Cyprus,CY,sme,no,82514.66
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","ARCHI PSIFIAKIS ASFALEIAS",,905199442,Cyprus,CY,public_body,no,76943.7
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","ELEKTROTECHNICKY ZKUSEBNI USTAV, SP",,919372888,Czechia,CZ,company,no,107802.5
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","Department of Climate, Energy and the Environment",,996559280,Ireland,IE,public_body,no,197564.8
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","NARODNY BEZPECNOSTNY URAD",,963224454,Slovakia,SK,public_body,no,97370
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","DIRECTORATUL NATIONAL DE SECURITATE CIBERNETICA",,953626692,Romania,RO,public_body,no,121980
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","SAFETECH INNOVATIONS SA",,952426414,Romania,RO,sme,no,107000
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","TECHNOLOGICAL UNIVERSITY DUBLIN",,903964729,Ireland,IE,university,no,113420
+101158687,TrustBoost,"Unifying & Upgrading Certification Capabiliti","LOGMANAGER A.S.",,880536125,Czechia,CZ,sme,no,49220
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","LAUREA-AMMATTIKORKEAKOULU OY",,991816077,Finland,FI,university,yes,492875.08
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","MUNSTER TECHNOLOGICAL UNIVERSITY",,892106673,Ireland,IE,university,no,271624.98
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",,999984059,Germany,DE,research_institution,no,465312.5
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","JYVASKYLAN YLIOPISTO",,999842245,Finland,FI,university,no,138687.5
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","ISTITUTO AFFARI INTERNAZIONALI",,999694708,Italy,IT,research_institution,no,115000
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","WOJSKOWA AKADEMIA TECHNICZNA IM.JAROSLAWA DABROWSKIEGO",,999887835,Poland,PL,university,no,377312.48
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","RISE RESEARCH INSTITUTES OF SWEDEN AB",,999613422,Sweden,SE,research_institution,no,654812.5
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","CONSORZIO NAZIONALE INTERUNIVERSITARIO PER I TRASPORTI E LA LOGISTICA",,998038627,Italy,IT,research_institution,no,186562.5
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","RINA CONSULTING SPA",,999951467,Italy,IT,company,no,421400
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","SOFTWARE IMAGINATION AND VISION SRL",,897024185,Romania,RO,company,no,212712.5
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","AON SPA INSURANCE & REINSURANCE BROKERS",,937602971,Italy,IT,company,no,123375
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","TELESPAZIO FRANCE SAS",,997899044,France,FR,company,no,265763.5
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","ALCATEL SUBMARINE NETWORKS SAS",,887532929,France,FR,company,no,174212.5
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","CINIA OY",,893140208,Finland,FI,company,no,181037.49
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","OPERATOR GAZOCIAGOW PRZESYLOWYCH GAZ-SYSTEM SPOLKA AKCYJNA",,936427525,Poland,PL,company,no,84630
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","TERNA - RETE ELETTRICA NAZIONALE SPA",,997943373,Italy,IT,company,no,180075
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","ENIVIBES SRL",,880591900,Italy,IT,company,no,206825.49
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su","GAS NETWORKS IRELAND",,919137760,Ireland,IE,company,no,139518.75
+101168016,VIGIMARE,"Vigilant Maritime Surveillance of Critical Su",HUOLTOVARMUUSKESKUS,,952204187,Finland,FI,public_body,no,58125

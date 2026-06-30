@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "2.05%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "3.20%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "15.19%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "2.16%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "9.21%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "5.68%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "1.43%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "8.86%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "6.12%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "4.11%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "6.10%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "5.08%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "3.82%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "13.94%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "4.79%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "10.73%"
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "0.73%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "3.42%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "22.05%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "1.14%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "23.96%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "11.02%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "40.97%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "3.64%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "8.59%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "2.34%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "10.53%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "12.02%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "1.66%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "22.60%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "5.58%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "11.44%"
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "34.78%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to public entities,%",
+        "Data": "3.72%"
+    }
+]

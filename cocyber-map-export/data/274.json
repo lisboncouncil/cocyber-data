@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "28.52%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "12.07%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "5.66%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "10.43%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "2.55%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "19.51%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "6.39%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "5.15%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "4.50%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "29.02%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "20.47%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "13.81%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "15.75%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "17.65%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "11.24%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "0.82%"
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "18.79%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "4.31%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "11.76%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "18.75%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "13.37%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "20.79%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "26.01%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "16.88%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "5.43%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "6.82%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "14.80%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "15.27%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "4.69%"
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "14.29%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of research institutions receiving grants for cybersecurity projects,%",
+        "Data": "3.65%"
+    }
+]

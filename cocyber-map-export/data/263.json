@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.86%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "6.46%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "9.54%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "3.27%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "1.88%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "3.93%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "18.00%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.73%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "1.60%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.65%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "1.00%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.46%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.34%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "1.33%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "2.09%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.67%"
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.54%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "9.67%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "1.02%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "4.20%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "2.81%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "1.37%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "3.35%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "2.22%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "2.72%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "8.31%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "41.64%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.76%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "4.73%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "8.64%"
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "1.80%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of budgets granted for Cybersecurity projects per type of the participant: Share of budgets granted for cybersecurity projects to NGOs,%",
+        "Data": "0.31%"
+    }
+]

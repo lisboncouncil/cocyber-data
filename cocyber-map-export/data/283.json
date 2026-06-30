@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 351030.47 "
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 319003.47 "
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 145193.05 "
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 186790.59 "
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 254034.14 "
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 253263.87 "
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 463272.59 "
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 372120.40 "
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 291876.82 "
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 313391.16 "
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 413904.19 "
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 603739.49 "
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 325163.04 "
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 233387.14 "
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 223502.53 "
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 470068.06 "
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 63892.00 "
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 315232.76 "
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 212852.86 "
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 208701.81 "
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 234732.12 "
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 204380.40 "
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 140289.22 "
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 355654.23 "
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 415832.45 "
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 323333.71 "
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 261528.29 "
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 205722.58 "
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 165825.28 "
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 366160.31 "
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 165915.74 "
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 180254.48 "
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 934063.02 "
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Average project size per participant types: Average project size for Universities, (€)",
+        "Data": " 346192.62 "
+    }
+]

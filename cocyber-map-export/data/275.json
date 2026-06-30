@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "12.79%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "31.26%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "32.08%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "31.75%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "58.76%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "10.98%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "18.29%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "27.21%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "28.83%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "25.57%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "19.36%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "17.16%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "22.73%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "5.88%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "25.84%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "36.73%"
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "28.57%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "21.33%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "9.48%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "27.73%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "18.75%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "0.00%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "14.29%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "20.90%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "14.61%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "25.11%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "22.08%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "20.16%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "27.27%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "17.20%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "24.43%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "14.06%"
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "16.07%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of participant types receiving grants for Cybersecurity projects: Share of SMEs receiving grants for cybersecurity projects,%",
+        "Data": "25.97%"
+    }
+]

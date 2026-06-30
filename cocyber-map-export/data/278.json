@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 257250.95 "
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 227221.83 "
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 101455.50 "
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 18625.41 "
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 203150.31 "
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 26616.93 "
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 329946.95 "
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 147371.96 "
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 373365.92 "
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 134078.54 "
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 166966.35 "
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 125245.01 "
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 128725.93 "
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 103155.12 "
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 250499.91 "
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 195684.50 "
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 496296.05 "
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 174689.86 "
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 238766.72 "
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 97498.64 "
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 567455.64 "
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 106250.00 "
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 114759.19 "
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 184179.63 "
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 298125.00 "
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 287886.41 "
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 123883.77 "
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 53856.01 "
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": ""
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Average project size per participant types: Average project size for other participants, (€)",
+        "Data": " 248616.21 "
+    }
+]

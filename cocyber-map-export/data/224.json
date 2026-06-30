@@ -1,0 +1,176 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "33%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "55%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "0%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "0%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "25%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "50%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "50%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "50%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "0%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "47%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "100%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "0%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "57%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "100%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "100%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "25%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "40%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "94%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "50%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": ""
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "0%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Tender size benchmark:\nBelow threshold tender size benchmark,%",
+        "Data": "96%"
+    }
+]

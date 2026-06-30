@@ -1,0 +1,206 @@
+[
+    {
+        "Country": "Austria",
+        "Abbr": "AT",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "3.34%"
+    },
+    {
+        "Country": "Belgium",
+        "Abbr": "BE",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "5.64%"
+    },
+    {
+        "Country": "Bulgaria",
+        "Abbr": "BG",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.17%"
+    },
+    {
+        "Country": "Switzerland",
+        "Abbr": "CH",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.73%"
+    },
+    {
+        "Country": "Cyprus",
+        "Abbr": "CY",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.88%"
+    },
+    {
+        "Country": "Czechia (Czech Republic)",
+        "Abbr": "CZ",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.64%"
+    },
+    {
+        "Country": "Germany",
+        "Abbr": "DE",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "8.06%"
+    },
+    {
+        "Country": "Denmark",
+        "Abbr": "DK",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.47%"
+    },
+    {
+        "Country": "Estonia",
+        "Abbr": "EE",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.33%"
+    },
+    {
+        "Country": "Greece",
+        "Abbr": "EL",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "5.98%"
+    },
+    {
+        "Country": "Spain",
+        "Abbr": "ES",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "8.06%"
+    },
+    {
+        "Country": "Finland",
+        "Abbr": "FI",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.24%"
+    },
+    {
+        "Country": "France",
+        "Abbr": "FR",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "6.95%"
+    },
+    {
+        "Country": "Croatia",
+        "Abbr": "HR",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.79%"
+    },
+    {
+        "Country": "Hungary",
+        "Abbr": "HU",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.14%"
+    },
+    {
+        "Country": "Ireland",
+        "Abbr": "IE",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.99%"
+    },
+    {
+        "Country": "Iceland",
+        "Abbr": "IS",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.10%"
+    },
+    {
+        "Country": "Italy",
+        "Abbr": "IT",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "7.72%"
+    },
+    {
+        "Country": "Lithuania",
+        "Abbr": "LT",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.00%"
+    },
+    {
+        "Country": "Luxembourg",
+        "Abbr": "LU",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.66%"
+    },
+    {
+        "Country": "Latvia",
+        "Abbr": "LV",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.68%"
+    },
+    {
+        "Country": "North Macedonia",
+        "Abbr": "MK",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.12%"
+    },
+    {
+        "Country": "Malta",
+        "Abbr": "MT",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.42%"
+    },
+    {
+        "Country": "Netherlands",
+        "Abbr": "NL",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "4.84%"
+    },
+    {
+        "Country": "Norway",
+        "Abbr": "NO",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.89%"
+    },
+    {
+        "Country": "Poland",
+        "Abbr": "PL",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.66%"
+    },
+    {
+        "Country": "Portugal",
+        "Abbr": "PT",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.94%"
+    },
+    {
+        "Country": "Romania",
+        "Abbr": "RO",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.62%"
+    },
+    {
+        "Country": "Serbia",
+        "Abbr": "RS",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.61%"
+    },
+    {
+        "Country": "Sweden",
+        "Abbr": "SE",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "2.59%"
+    },
+    {
+        "Country": "Slovenia",
+        "Abbr": "SI",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "1.28%"
+    },
+    {
+        "Country": "Slovakia",
+        "Abbr": "SK",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.94%"
+    },
+    {
+        "Country": "Turkey",
+        "Abbr": "TR",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "0.65%"
+    },
+    {
+        "Country": "United Kingdom",
+        "Abbr": "UK",
+        "Indicator": "Share of Cybersecurity projects across participating countries,%",
+        "Data": "4.68%"
+    }
+]
